@@ -1,16 +1,30 @@
 \documentclass{exam}
 
+\usepackage{chemformula}
+
+
 \pagestyle{headandfoot}
 \runningheadrule
-\firstpageheader{Chemistry A}{Prequiz}{\today}
+\firstpageheader{name:\fillin}{period: \fillin}{id: \fillin}
 \runningheader{Chemistry A}
 {First Exam, Page \thepage\ of \numpages}
 {\today}
-\firstpagefooter{}{}{rev \today}
+\firstpagefooter{}{}{rev. \today}
 \runningfooter{}{}{}
 
-
 \begin{document}
+
+
+\begin{center}
+    \fbox{\fbox{\parbox{5.5in}{\centering
+    Answer the questions in the spaces provided on the
+    question sheets. If you run out of room for an answer,
+    continue on the back of the page.}}}
+\end{center}
+
+
+
+
 
 \begin{questions}
     
@@ -59,7 +73,13 @@
 
 
 
-Short Answer Questions
+\textbf{Short Answer Questions}
+
+\question[5] Ballance the following chemical equation:
+
+\begin{equation}
+    \ch{ H2 \;\;\;  +  \quad  O2 \quad ->  \quad H2O}
+\end{equation}
 
 \question[5] Describe the main idea of the plum pudding model proposed by J.J. Thomson.  
 
@@ -74,7 +94,7 @@ Short Answer Questions
 \makeemptybox{1in}
 
 
-True or False
+\textbf{True or False}
 
 \question[2] The atomic mass of an element is the average mass of all its isotopes.  
 \begin{checkboxes}
@@ -89,9 +109,10 @@ True or False
     \choice False
 \end{checkboxes}
 
+\vspace{1cm}
 
-Bonus Question
-11. How did the development of the quantum mechanical model improve upon earlier models of the atom?  
+\textbf{Bonus Question}
+\question[5] How did the development of the quantum mechanical model improve upon earlier models of the atom?  
 
 
 
