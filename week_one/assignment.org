@@ -1,25 +1,27 @@
 #+title: week one: knowing your learners
 
-The Next Generation Science Standards (NGSS) are the guidelines for science instruction in California.  Los Angeles Unified School District(LAUSD), the district I anticipate working as a science educator, has adopted the thee-course model for high school science education(citation). This means that students take Biology, Chemistry and Physics in that order. I have decided to plan a week long lesson in atomic theory. This has traditionally been an early unit covered in high school chemistry. 
 
-* Prior academic knowledge 
+The Next Generation Science Standards (NGSS) are the guidelines for science instruction in California.  Los Angeles Unified School District(LAUSD), the district I anticipate working as a science educator, has adopted the “thee-course” model for high school science education(citation). This means that students take Biology, Chemistry and Physics in that order. I have decided to plan a week-long lesson in atomic theory. This has traditionally been an early unit covered in high school chemistry. 
 
-- assessment: Students will take a pre-assessment link to determine knowledge of subject matter to be covered in the atomic theory lesson.
+In efforts to differentiate instruction, implement sound UDL principles  and make class materials available to all students, I have created a website for the class. It is a work in progress at this point, but as materials I develop for the class increase, the site can serve as a repository for these items. The site is static at this point, but I plan to make it more interactive based on what is in accordance with state and district guidelines.
+
+
+Prior academic knowledge 
+
+- assessment: Students will take a pre-assessment  to determine knowledge of subject matter to be covered in the atomic theory lesson.
 - data collection: Student performance on the pre-assessment will inform instruction for the coming week. The goal is to develop a real-time data collection system using web-based technology.
  
 
-* Cultural and linguistic resources and funds of knowledge
+Cultural and linguistic resources and funds of knowledge
 
-- assessment: I would assess cultural and linguistic resources in a two part collaborative assignment. Students will form small groups and discuss food preparation is in their family. The second part of the assignment would be a discussion related to the chemistry of food.
+- assessment: I would assess cultural and linguistic resources in a two part collaborative assignment. Students will form small groups and discuss food preparation in their family. The second part of the assignment would be a discussion related to the chemistry of food. 
 - data collection: This will be an opportunity to build a sense of community in the classroom and an opportunity for me to build stronger relationships with my students.  
 
-* Prior experience and interests and life experience(s) that may require additional academic and/or emotional support
+Prior experience and interests and life experience(s) that may require additional academic and/or emotional support
 
 - assessment: Students will complete a survey that will assess prior interest in Chemistry and a student information form.
 - data collection: Keeping track of up to 150 students can be challenging. My plan is to utilize a database application that will allow for quick retrieval of student information. This will, hopefully, allow faster and more efficient incorporation of student data in instruction planning.
 
-
-
-* Developmental considerations
+Developmental considerations
 
 All instructional planning is subject to change and modification. Through careful reflection and observation, the assessments and activities presented here will be in a constant state of development. 
