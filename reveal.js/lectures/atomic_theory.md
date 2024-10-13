@@ -19,6 +19,17 @@ Father of Atomic theory
 Note: This will only appear in the speaker notes window.
 
 
+### Balance the following chemical equation
+
+
+$$ H_2  \quad + \quad O_2 \implies \quad H_2O $$ 
+
+[answer](#/1/5)
+
+
+$$ 2H_2  \quad + \quad O_2 \implies \quad 2H_2O $$ 
+
+
 
 ## J. J. Thompson
 
@@ -59,3 +70,5 @@ Content 3.2
 ## External 3.4 (Math)
 
 `\[ J(\theta_0,\theta_1) = \sum_{i=0} \]`
+$$ J(\theta_0,\theta_1) = \sum_{i=0} $$
+$E = mc^2$
