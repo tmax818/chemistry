@@ -24,6 +24,10 @@
 				</section>
 
 				<section>
+					\ce{H2SO4}
+				</section>
+
+				<section>
 					<h3>The Lorenz Equations</h3>
 
 					\[\begin{aligned}
@@ -177,20 +181,17 @@
 
 		<script src="../dist/reveal.js"></script>
 		<script src="../plugin/math/math.js"></script>
+		<script src="../plugin/math/mathjax3.js"></script>
+		<script src="../plugin/math/katex.js"></script>
+
 		<script>
 			Reveal.initialize({
 				history: true,
 				transition: 'linear',
+				katex: {
+    				extensions: ['mhchem'],
+  				},
 
-				mathjax2: {
-					config: 'TeX-AMS_HTML-full',
-					TeX: {
-						Macros: {
-							R: '\\mathbb{R}',
-							set: [ '\\left\\{#1 \\; ; \\; #2\\right\\}', 2 ]
-						}
-					}
-				},
 
 				// There are three typesetters available
 				// RevealMath.MathJax2 (default)
@@ -198,9 +199,10 @@
 				// RevealMath.KaTeX
 				//
 				// More info at https://revealjs.com/math/
-				plugins: [ RevealMath.MathJax2 ]
+				plugins: [ RevealMath.MathJax3, RevealMath.katex ]
 			});
 		</script>
+
 
 	</body>
 </html>
