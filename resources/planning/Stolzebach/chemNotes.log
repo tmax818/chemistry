@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  3 NOV 2024 08:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  3 NOV 2024 08:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count194
 \c@section=\count195
@@ -334,6 +334,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \hbox (1.36528pt too wide) in paragraph at lines 29--29
+ [][] [][]\T1/cmr/m/n/10.95 Lesson 3.8 - Con-vec-tion Re-mem-brance, Mini-lab, Video, 
+ []
+
+
 
 [1
 
@@ -351,7 +356,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [5]
 
-[6]
+[6{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [7]
 
@@ -360,17 +365,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [9]
 
 [10]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 296.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 328.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Overfull \hbox (5.10352pt too wide) in paragraph at lines 290--298
-\T1/cmtt/m/n/12 presentation / d / 1B5buiE6xG3 _ QRVsaKglTQBbGpzm4ieviKveCKPNN1c / edit ?
+Overfull \hbox (2.13574pt too wide) in paragraph at lines 322--330
+\T1/cmtt/m/n/10.95 presentation / d / 1B5buiE6xG3 _ QRVsaKglTQBbGpzm4ieviKveCKPNN1c / edit ?
  []
 
 
-Overfull \hbox (158.89377pt too wide) in paragraph at lines 290--298
-\T1/cmtt/m/n/12 usp = sharing$[] \T1/cmr/m/n/12 and []$\T1/cmtt/m/n/12 https : / / docs . google . com / presentation / d / 1ancEMCWdatOIscAvzfdXsEPLHiFmw5pq5 _
+Overfull \hbox (143.34547pt too wide) in paragraph at lines 322--330
+\T1/cmtt/m/n/10.95 usp = sharing$[] \T1/cmr/m/n/10.95 and []$\T1/cmtt/m/n/10.95 https : / / docs . google . com / presentation / d / 1ancEMCWdatOIscAvzfdXsEPLHiFmw5pq5 _
  []
 
 
@@ -380,8 +385,8 @@ Overfull \hbox (158.89377pt too wide) in paragraph at lines 290--298
 [12]
 
 [13]
-Overfull \hbox (2.5832pt too wide) in paragraph at lines 470--470
-[]\T1/cmr/bx/n/12 Lesson 6.2 - Re-ac-tion Mass Con-ser-va-tion with Happy Atoms: 
+Overfull \hbox (3.93106pt too wide) in paragraph at lines 502--502
+[]\T1/cmr/bx/n/10.95 Lesson 6.2 - Re-ac-tion Mass Con-ser-va-tion with Happy Atoms: 
  []
 
 
@@ -391,6 +396,11 @@ Overfull \hbox (2.5832pt too wide) in paragraph at lines 470--470
 [15]
 
 [16]
+Overfull \hbox (1.5324pt too wide) in paragraph at lines 683--686
+\T1/cmr/m/n/10.95 Conventional equa-tions for grav-i-ta-tional force, static fric-tion force, and spring
+ []
+
+
 
 [17]
 
@@ -408,20 +418,16 @@ Overfull \hbox (2.5832pt too wide) in paragraph at lines 470--470
 
 [24]
 
-[25{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[25]
 
 [26]
 
-[27]
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1108.
+(hyperref)                removing `math shift' on input line 1140.
 
 
 
-[28]
-
-[29] (./chemNotes.aux)
+[27] (./chemNotes.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -430,18 +436,18 @@ Package rerunfilecheck Info: File `chemNotes.out' has not changed.
 (rerunfilecheck)             Checksum: 78BC8C89E9DA7DA31E09CF8064CF0387;42385.
  ) 
 Here is how much of TeX's memory you used:
- 10838 strings out of 473579
- 165065 string characters out of 5728234
- 573843 words of memory out of 5000000
- 33404 multiletter control sequences out of 15000+600000
- 568098 words of font info for 63 fonts, out of 8000000 for 9000
+ 10846 strings out of 473579
+ 165161 string characters out of 5728234
+ 574907 words of memory out of 5000000
+ 33408 multiletter control sequences out of 15000+600000
+ 568113 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,696b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on chemNotes.pdf (29 pages, 193425 bytes).
+ 75i,17n,79p,696b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on chemNotes.pdf (27 pages, 207338 bytes).
 PDF statistics:
- 1003 PDF objects out of 1200 (max. 8388607)
- 949 compressed objects within 10 object streams
- 187 named destinations out of 1000 (max. 500000)
+ 1004 PDF objects out of 1200 (max. 8388607)
+ 952 compressed objects within 10 object streams
+ 193 named destinations out of 1000 (max. 500000)
  1241 words of extra memory for PDF output out of 10000 (max. 10000000)
 

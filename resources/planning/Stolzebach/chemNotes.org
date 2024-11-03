@@ -66,6 +66,30 @@ describe what they see and also speculate about what they cannot see. One possib
 of this in the amazing parte would be to ask them to formulate a question about what they see
 that involves what they cannot see.
 
+****  Lesson 2.1 - Computing the Energy in Food
+
+- The modern metric unit of energy is the **joule**. 
+- An older unit of energy is the **calorie**.
+- To convert use: **1 calorie = 4.2 joules**
+- A food calorie = 1000 energy calories = 1 kilocalorie = 1 kcal
+
+***** Food Label Exercise
+
+1. Get a food label by Googling “food label images”.
+2. Find the grams per serving (if your label does not have this, get another one that does).
+3. Find the food calories per serving on the label - remember that these are actually kcal of energy.
+4. Compute the kcal per gram:
+	Calories per serving = _________________________________
+	Grams per serving = ___________________________________
+	
+5. Post your kcal/gm value on a sticky note on the number line on the white board. 
+6. Class value = ________________________ cal/g
+
+Example Calculation
+
+Calories per serving = 300 food calories = 300 kcal
+Grams per serving = 102 g = 2.9 kcal/g
+
 
 *** Lesson 2.1 - Computing the Energy in Food:
 
