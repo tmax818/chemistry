@@ -1,84 +1,46 @@
-% Created 2024-11-03 Sun 08:00
-% Intended LaTeX compiler: pdflatex
-\documentclass[11pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{graphicx}
-\usepackage{longtable}
-\usepackage{wrapfig}
-\usepackage{rotating}
-\usepackage[normalem]{ulem}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{capt-of}
-\usepackage{hyperref}
-\author{tyler}
-\date{\today}
-\title{}
-\hypersetup{
- pdfauthor={tyler},
- pdftitle={},
- pdfkeywords={},
- pdfsubject={},
- pdfcreator={Emacs 29.4 (Org mode 9.6.15)}, 
- pdflang={English}}
-\begin{document}
-
-\tableofcontents
-
-\section{Chemistry}
-\label{sec:org55c51cb}
+* Chemistry
 
 
-\subsection{Unit 1 - Properties of Matter}
-\label{sec:org6cf11e4}
+** Unit 1 - Properties of Matter
 
-\subsubsection{Assessment 1.1 - Observing Matter:}
-\label{sec:org07fcd03}
+*** Assessment 1.1 - Observing Matter:
 
 In this assessment students observed three disc magnets suspended on a rod. The idea was to get them to think about forces on matter that would be
 discussed in the unit lessons. This worked moderately well, although the concept of forces with a direction was difficult for many.
 
 
-\subsubsection{Lesson 1.1 - Composition of Matter:}
-\label{sec:orgd139852}
+*** Lesson 1.1 - Composition of Matter:
 
 Atomic and molecular structure of matter and units of mass and length.
 
 
-\subsubsection{Lesson 1.2 - Volume, Mass, and Density:}
-\label{sec:org04f4732}
+*** Lesson 1.2 - Volume, Mass, and Density:
 
 Definition of density and relationship to sinking and floating; practice calculating density.
 
 
-\subsubsection{Lesson 1.3 - Forces on Matter:}
-\label{sec:org92197ff}
+*** Lesson 1.3 - Forces on Matter:
 
 Properties of gravitational and electromagnetic forces.
 
 
-\subsubsection{Assessment 1.2 - Explaining Forces on Matter:}
-\label{sec:org469d1ec}
+*** Assessment 1.2 - Explaining Forces on Matter:
 
 Students did this assessment after learning about the source and nature of gravitational and electromagnetic forces. It was a good test of their ability to recognize these forces in a simple situation and to explain what they observed.
 
 
-\subsubsection{Lesson 1.4 - Temperature and Matter:}
-\label{sec:org7ed149e}
+*** Lesson 1.4 - Temperature and Matter:
 
 Definition and units of temperature; uses a very goodPhet simulation relating temperature to molecular motion. I referred back to this
 simulation many times during the year.
 
 
-\subsubsection{Lesson 1.5 - States of Matter:}
-\label{sec:orgbf2c943}
+*** Lesson 1.5 - States of Matter:
 
 Relationship between the three states of matter and intermolecular forces; definition of phase changes; definition of a physical change
 
 
-\subsubsection{Lesson 1.6 - Solar Distillation:}
-\label{sec:orgee758de}
+*** Lesson 1.6 - Solar Distillation:
 
 Phase changes in the hydrologic cycle; how a solar still works. This lesson included the construction of a solar still for each period using
 materials that are in the Room 306 back area. The students enjoyed this activity. I took
@@ -87,8 +49,7 @@ made a still and we put them out on the roof of the building, but this year they
 let us go on the roof.
 
 
-\subsubsection{Assessment 1.3 - A Water Plan for Your Home and Community:}
-\label{sec:org2469cb8}
+*** Assessment 1.3 - A Water Plan for Your Home and Community:
 
 This assessment was directly related to the lesson on solar stills and was an attempt to get the students to apply this
 information qualitatively and quantitatively to their home and community within a scenario of
@@ -96,11 +57,9 @@ scarce fresh water.
 
 
 
-\subsection{Unit 2 - Combustion}
-\label{sec:org4bf2c6b}
+** Unit 2 - Combustion
 
-\subsubsection{Assessment 2.1 - Observing Combustion:}
-\label{sec:orgec552a1}
+*** Assessment 2.1 - Observing Combustion:
 
 Students observe and reflect on a burning candle. This assessment continues the theme for the first assessment in which they are asked to
 describe what they see and also speculate about what they cannot see. One possible extension
@@ -108,24 +67,21 @@ of this in the amazing parte would be to ask them to formulate a question about 
 that involves what they cannot see.
 
 
-\subsubsection{Lesson 2.1 - Computing the Energy in Food:}
-\label{sec:org81ec925}
+*** Lesson 2.1 - Computing the Energy in Food:
 
 Units of energy; computing the energy per
 mass in food using food labels; displaying the results as a histogram of sticky notes on a
 number line on the back white board.
 
 
-\subsubsection{Lesson 2.2 - Biofuels Lab:}
-\label{sec:org50c726f}
+*** Lesson 2.2 - Biofuels Lab:
 
 Lab materials and procedure copied from a PowerPoint to a
 single sheet in their notebook; data on water volume and temperature and nut mass.
 Reflection on kinds and sources of error.
 
 
-\subsubsection{Assessment 2.2 - Calculating the Energy Increase in Water:}
-\label{sec:org2b9d92c}
+*** Assessment 2.2 - Calculating the Energy Increase in Water:
 
 This assessment uses the data from the biofuel lab and asks students to calculate the energy increase in their mass of water
 using the specific heat of water and the measured temperature increase. Students then
@@ -137,8 +93,7 @@ math calculations. They were also challenged by having to use concepts such as l
 greater than in making their claim.
 
 
-\subsubsection{Lesson 2.3 - Combustion Conference:}
-\label{sec:orgcb4e752}
+*** Lesson 2.3 - Combustion Conference:
 
 Individual, group, and class responses to three questions about the combustion lab. I did this using a Fishbowl routine in which
 representatives from each table came to a central table to discuss the questions. I used
@@ -146,33 +101,28 @@ the sentence starter sheets to guide the discussion. I provided the wording for 
 response.
 
 
-\subsubsection{Lesson 2.4 - Combustion Video Questions:}
-\label{sec:org5cea352}
+*** Lesson 2.4 - Combustion Video Questions:
 
 Students watched a video about combustion and filled in words from a word bank into statements taken from the video.
 
 
-\subsubsection{Assessment 2.3 - Real World Combustion Project:}
-\label{sec:org9c3b44c}
+*** Assessment 2.3 - Real World Combustion Project:
 
 Each student chooses a fuel and does research on the properties of the fuel. I would say that the Amazing question about the
 relevance of the fuel to home, community, culture, or country needs to be more well-defined and
 a bit more demanding. As it is, students dash off a couple of sentences.
 
 
-\subsection{Unit 3 - Energy}
-\label{sec:org4bf55cd}
+** Unit 3 - Energy 
 
 Note this is a large unit with several distinct parts, including heat transfer, plate tectonics, and energy systems
 
-\subsubsection{Assessment 3.1 - Observing Lava Flowing into the Ocean:}
-\label{sec:orgbf73011}
+*** Assessment 3.1 - Observing Lava Flowing into the Ocean:
 
 Students watch a video of lava flowing into the ocean and respond with their observations of what they can and cannot see.
 
 
-\subsubsection{Lesson 3.1 - Hot Rocks Minilab:}
-\label{sec:org0ce96d7}
+*** Lesson 3.1 - Hot Rocks Minilab:
 
 In this lab students observe cold water being poured
 over heated marbles (>200C) and to measure the temperature of the marbles and water
@@ -181,22 +131,19 @@ lower supply drawers in the front table. The dishes and marbles are in the cabin
 storeroom across the hall. I bought a toaster oven from home to heat the marbles.
 
 
-\subsubsection{Lesson 3.2 - Hot Rocks Discussion:}
-\label{sec:orgfdf4ca4}
+*** Lesson 3.2 - Hot Rocks Discussion:
 
 We did this using the Fishbowl routine with sentence starters.
 
 
-\subsubsection{Lesson 3.3 - Heat Transfer Lab:}
-\label{sec:orgb67c5ef}
+*** Lesson 3.3 - Heat Transfer Lab:
 
 Students heat up water using radiation, conduction, and
 convection. As part of the data analysis they calculate how much energy was transferred
 to the water.
 
 
-\subsubsection{Lesson 3.4 - Heat Transfer Reflection:}
-\label{sec:org281ee4b}
+*** Lesson 3.4 - Heat Transfer Reflection:
 
 After the students try to answer the question about how heat was transferred for each case I use red plastic chips to illustrate how the
 transfer takes place. Then I show them the class answer for them to copy. This is not a
@@ -205,8 +152,7 @@ the point across. A possible tweak would be to make the names of the three modes
 heat transfer more prominent given how much we are going to refer to them.
 
 
-\subsubsection{Lesson 3.5 - Heat Transfer Conference:}
-\label{sec:orga9ff551}
+*** Lesson 3.5 - Heat Transfer Conference:
 
 After students try to draw their individual responses each table uses a felt board and felt elements to draw what they think the
 answer is. This exercise is difficult because all of a sudden we are talking about more
@@ -215,21 +161,18 @@ make their diagrams and then each table shares its diagram. Finally, I project t
 answer for them to copy.
 
 
-\subsubsection{Lesson 3.6 - Heat Transfer Video:}
-\label{sec:org9931426}
+*** Lesson 3.6 - Heat Transfer Video:
 
 This is a somewhat creepy but effective video for
 helping them remember the essential elements of each mode of transfer.
 
 
-\subsubsection{Lesson 3.7 - Plate Tectonics Video:}
-\label{sec:org81fb999}
+*** Lesson 3.7 - Plate Tectonics Video:
 
 This video is a good introduction to plate tectonics.
 
 
-\subsubsection{Lesson 3.8 - Convection Remembrance, Minilab, Video, and Reflection:}
-\label{sec:org1cc691d}
+*** Lesson 3.8 - Convection Remembrance, Minilab, Video, and Reflection:
 
 The remembrance is what happened in the heat transfer lab with convection. The Minilab is a
 pyrex baking pan on a hot plate with a light above and potassium permanganate crystals
@@ -240,8 +183,7 @@ comment on how each part of the lesson shows heated material rising upward carry
 energy.
 
 
-\subsubsection{Lesson 3.9 - Dynamic Earth Reading:}
-\label{sec:org811db04}
+*** Lesson 3.9 - Dynamic Earth Reading:
 
 The lesson has a pre-read part involving vocabulary and statements about plate tectonics the student agree or disagree with.
 Then they do the reading and provide responses to selected sentences. The last thing
@@ -251,29 +193,25 @@ what is correct. For some reason students find it hard to understand what to do 
 last part.
 
 
-\subsubsection{Assessment 3.2 - Plate Tectonics:}
-\label{sec:org14d7dd9}
+*** Assessment 3.2 - Plate Tectonics:
 
 For the Must Have they make and annotate a drawing showing the basic parts of the Earth’s interior and how heat is moved. For the Amazing they
 should say how plate tectonics has affected life on Earth.
 
 
-\subsubsection{Lesson 3.10 - Forms of Energy:}
-\label{sec:orgb99bbbe}
+*** Lesson 3.10 - Forms of Energy:
 
 This is the beginning of the last part of the energy unit. Six kinds of energy are identified - three are forms of kinetic energy and three are forms
 of potential energy. The scenarios have been a good way to lock in their understanding.
 
 
-\subsubsection{Lesson 3.11 - Energy Systems:}
-\label{sec:orgf46ca67}
+*** Lesson 3.11 - Energy Systems:
 
 This is the only place that conservation of energy is
 discussed. The Phet app is excellent for visualizing energy systems.
 
 
-\subsubsection{Lesson 3.12 - Energy System Minilab:}
-\label{sec:org9837d0a}
+*** Lesson 3.12 - Energy System Minilab:
 
 This is a fun hands-on activity that uses different
 material. Teapots on a hotplate; large lights as radiation source; batteries; solar panels;
@@ -282,8 +220,7 @@ LED lights, pulleys, weights, frictionless cars. Students construct enough energ
 systems, usually three but sometimes two, that have all six kinds of energy.
 
 
-\subsubsection{Assessment 3.3 - Energy Systems Project:}
-\label{sec:orgd162839}
+*** Assessment 3.3 - Energy Systems Project:
 
 This project asks students to conceive of a realworld energy system and to answer questions about their system.
 Energy Reflection: This is a fun way to end the semester by completing an artistic work
@@ -291,23 +228,20 @@ Energy Reflection: This is a fun way to end the semester by completing an artist
 has been the most popular media, so if you do this you should buy a lot of clay from Amazon or
 Staples. This is what I bought:
 You can see the results of the last two years of this reflection at
-\url{https://docs.google.com/presentation/d/1B5buiE6xG3\_QRVsaKglTQBbGpzm4ieviKveCKPNN1c/edit?usp=sharing} and
-\url{https://docs.google.com/presentation/d/1ancEMCWdatOIscAvzfdXsEPLHiFmw5pq5\_drTLmFd8k/edit?usp=sharing}.
+https://docs.google.com/presentation/d/1B5buiE6xG3_QRVsaKglTQBbGpzm4ieviKveCKPNN1c/edit?usp=sharing and
+https://docs.google.com/presentation/d/1ancEMCWdatOIscAvzfdXsEPLHiFmw5pq5_drTLmFd8k/edit?usp=sharing.
 
 
-\subsection{Unit 4 - Atoms and Elements}
-\label{sec:org7d93a8e}
+** Unit 4 - Atoms and Elements
 
-\subsubsection{Assessment 4.1 - Mystery Tubes:}
-\label{sec:org9d0099b}
+*** Assessment 4.1 - Mystery Tubes:
 
 This assessment introduces the idea of trying to figure out
 what is inside something when you cannot see what is inside. The mystery tubes and the
 materials for making model tubes are in the storeroom across the hall.
 
 
-\subsubsection{Lesson 4.1 - Atomic Model Research:}
-\label{sec:org90808fc}
+*** Lesson 4.1 - Atomic Model Research:
 
 Each student is assigned one of the five atomic
 models and does research on that model using the graphic organizer. Students at the
@@ -315,165 +249,138 @@ same table have different assignments. Then students meet in groups by the model
 were assigned and make a slide presentation and a poster.
 
 
-\subsubsection{Lesson 4.2 - Atomic Model Timeline:}
-\label{sec:org2cedcdf}
+*** Lesson 4.2 - Atomic Model Timeline:
 
 Students take notes on the presentations of each model, noting the claims made by each model.
 
 
-\subsubsection{Lesson 4.3 - Element Property Lab:}
-\label{sec:org1cdca00}
+*** Lesson 4.3 - Element Property Lab:
 
 Students make measurements on seven different element samples.
 
 
-\subsubsection{Lesson 4.4}
-\label{sec:orgfaec9fe}
+*** Lesson 4.4 
 
 Students practice categorizing different objects and then try to categorize
 the element samples.
 
 
-\subsubsection{Lesson 4.5 - Periodic Table Notes:}
-\label{sec:org30e1cfc}
+*** Lesson 4.5 - Periodic Table Notes:
 
 Introduces the essential features of the periodic table.
 
 
-\subsubsection{Lesson 4.6 - Periodic Table Practice:}
-\label{sec:orge3d0d44}
+*** Lesson 4.6 - Periodic Table Practice:
 
 Students practice identifying the properties of elements using the periodic table notation.
 
 
-\subsubsection{Assessment 4.2 - Build an Atom:}
-\label{sec:org9db6164}
+*** Assessment 4.2 - Build an Atom:
 
 Students us a Phet app to practice building atoms with specific properties and identifying element isotopes.
 
 
-\subsubsection{Lesson 4.7 - Bohr Electron Diagram Notes:}
-\label{sec:orgb722a05}
+*** Lesson 4.7 - Bohr Electron Diagram Notes:
 
 Introduces the properties of a Bohr atom and how it is represented in an electron diagram.
 
 
-\subsubsection{Lesson 4.8 - Drawing Bohr Electron Diagrams:}
-\label{sec:orgbc8dcb8}
+*** Lesson 4.8 - Drawing Bohr Electron Diagrams:
 
 Students practice drawing the diagrams for elements 1 through 18. This is a super important lesson because we refer to it a lot in
 future lessons.
 
 
-\subsubsection{Lesson 4.9 - Electronegativity:}
-\label{sec:org6d57081}
+*** Lesson 4.9 - Electronegativity:
 
 Students add electronegativity values to the Lesson 4.8 diagrams and then discuss the trends in electronegativity values.
 Assessment 4.3 - Adopt an Atom: Each student is assigned a different element and does research to identify the properties of that element.
 
 
-\subsection{Unit 5 - Bonding and Material Properties}
-\label{sec:org2423e18}
+** Unit 5 - Bonding and Material Properties
 
-\subsubsection{Assessment 5.1 - Observing a Paper Towel and Water:}
-\label{sec:org207ff91}
+*** Assessment 5.1 - Observing a Paper Towel and Water:
 
 Students observe paper towel lifting water from one cup to another.
 
 
-\subsubsection{Lesson 5.1 - Properties of Water Lab:}
-\label{sec:orgb805113}
+*** Lesson 5.1 - Properties of Water Lab:
 
 This is a fun, but logistical, lesson where students observe water flowing down a cord, sticking to a penny, mixing with oil and alcohol, and
 dissolving salt.
 
 
-\subsubsection{Lesson 5.2 - Properties of Water Lab Discussion:}
-\label{sec:org41498ad}
+*** Lesson 5.2 - Properties of Water Lab Discussion:
 
 After the concepts of cohesion and adhesion are introduced students try to explain what they saw in the lab.
 
 
-\subsubsection{Lesson 5.3 - Lewis Dot Diagrams and Ion Formation:}
-\label{sec:org32854d7}
+*** Lesson 5.3 - Lewis Dot Diagrams and Ion Formation:
 
 Student learn about these two concepts.
 
 
-\subsubsection{Lesson 5.4 - Practice forming Ions:}
-\label{sec:org0ef635c}
+*** Lesson 5.4 - Practice forming Ions:
 
 Students use the notation to show how anions and cations are formed.
 
 
-\subsubsection{Lesson 5.5 - Bonding Between Atoms:}
-\label{sec:org703c571}
+*** Lesson 5.5 - Bonding Between Atoms:
 
 Introduces the concept of “happy” atoms with full shells. Uses the excellent Happy Atoms that are in the back 306 room in conjunction with
 a bonding game.
 
 
-\subsubsection{Assessment 5.2 - Adopt a Molecule:}
-\label{sec:orgaea2036}
+*** Assessment 5.2 - Adopt a Molecule:
 
 Each student is assigned a different molecule and does research to identify the properties of that molecule.
 
 
-\subsubsection{Lesson 5.6 - Making New Material Lab:}
-\label{sec:org5bb9b2c}
+*** Lesson 5.6 - Making New Material Lab:
 
 Students combine calcium chloride and sodium alginate to form solid alginate material and then show that sodium chloride will not do the same thing. There is alginate solution in the refrigerator.
 
 
-\subsubsection{Lesson 5.7 - Making New Materials Discussion:}
-\label{sec:org917a6c6}
+*** Lesson 5.7 - Making New Materials Discussion:
 
 Students use felt boards to discuss why calcium chloride sticks the alginate together.
 
 
-\subsubsection{Lesson 5.8 - Polar and Non-Polar Bonds:}
-\label{sec:orgfc3a7ec}
+*** Lesson 5.8 - Polar and Non-Polar Bonds:
 
 Introduces polarity and relates it to material properties
 
 
-\subsubsection{Lesson 5.9 - Intermolecular Force Practice:}
-\label{sec:org5785e0f}
+*** Lesson 5.9 - Intermolecular Force Practice:
 
 A worksheet to help students understand the importance of intermolecular forces.
 
 
-\subsubsection{Assessment 5.3 - Adopt a Material:}
-\label{sec:org4a710f3}
+*** Assessment 5.3 - Adopt a Material:
 
 Each student is assigned a different matieral and does research to identify the properties of that material.
 
 
-\subsection{Unit 6 - Chemical Reactions}
-\label{sec:org63a9483}
+** Unit 6 - Chemical Reactions
 
-\subsubsection{Assessment 6.1 - Observing a Reaction:}
-\label{sec:org2e04abd}
+*** Assessment 6.1 - Observing a Reaction:
 
 Students observe baking soda and vinegar reacting.
 
 
-\subsubsection{Lesson 6.1 - Reaction Mass Conservation Lab:}
-\label{sec:org4ff17b4}
+*** Lesson 6.1 - Reaction Mass Conservation Lab:
 
 Students measure the mass of solids and
 liquids before and after a reaction.
 
 
-\subsubsection{Lesson 6.2 - Reaction Mass Conservation with Happy Atoms:}
-\label{sec:org61ee994}
+*** Lesson 6.2 - Reaction Mass Conservation with Happy Atoms:
 
 Students use the Happy
 Atoms to show that the number of atoms of each element in a reaction is conserved.
 
 
-\subsubsection{Lesson 6.3 - Mass Conservation in Reactions:}
-\label{sec:orgd57726a}
+*** Lesson 6.3 - Mass Conservation in Reactions:
 
 Students learn about molecular notation
 and how to use that to determine the number of molecules of reactants and products.
@@ -483,103 +390,87 @@ molecule. Anything that can be done to solidify this idea for them will help in 
 next lessons.
 
 
-\subsubsection{Lesson 6.4 - Reaction Mass Conservation Computations:}
-\label{sec:org3f7c1c4}
+*** Lesson 6.4 - Reaction Mass Conservation Computations:
 
 Students learn how to compute the mass of reactants and products. Note: I do not use moles at all in my lessons.
 The word “mole” appears only once in the Three Course Model writeup for
 Chemistry.
 
 
-\subsubsection{Lesson 6.5 - Reaction Mass Conservation Practice:}
-\label{sec:orgb9d3664}
+*** Lesson 6.5 - Reaction Mass Conservation Practice:
 
 More practice showing that total mass is conserved.
 
 
-\subsubsection{Assessment 6.2 - Reaction Mass Conservation:}
-\label{sec:orge49ca08}
+*** Assessment 6.2 - Reaction Mass Conservation:
 
 Student are assigned one of four reactions for which they show that total mass is conserved.
 
 
-\subsubsection{Lesson 6.6 - Battery Minilab:}
-\label{sec:org5c4a174}
+*** Lesson 6.6 - Battery Minilab:
 
 Students make batteries out of potatoes or lemons (about 30 of each is enough - they can be reused) and measure the voltage and show that by
 adding elements in series the voltage goes up enough to lite a small LED.
 
 
-\subsubsection{Lesson 6.7 - The Lemon and Potato Battery Explained:}
-\label{sec:org8938c5e}
+*** Lesson 6.7 - The Lemon and Potato Battery Explained:
 
 Students watch a video about the invention of the battery and then take notes on how it works. Note: in my notes the
 electrons end up reacting with hydrogen ions; some sources have the electrons
 combining with copper ions in solution to reform solid copper.
 
 
-\subsubsection{Lesson 6.8 - Reactions and Energy:}
-\label{sec:org10b8a26}
+*** Lesson 6.8 - Reactions and Energy:
 
 The Happy Atoms are used in conjunction with notes to show that in a reaction energy is first added to break up the reactants and then
 emitted when the products are formed. The concept of exothermic and endothermic
 reactions is introduced.
 
 
-\subsubsection{Lesson 6.9 - Ocean Acidification Minilab:}
-\label{sec:orgbe7f9fa}
+*** Lesson 6.9 - Ocean Acidification Minilab:
 
 This lab uses a Phet app to define pH.
 Students show that vinegar is acidic and will dissolve shells. Students show that adding CO2 to water makes it more acidic.
 
 
-\subsubsection{Assessment 6.3 - Adopt a Reaction:}
-\label{sec:org724f240}
+*** Assessment 6.3 - Adopt a Reaction:
 
 Each student is assigned a different reaction and does research to identify the properties of that reaction
 
 
-\subsubsection{Lesson 6.10 - Ocean Acidification Video:}
-\label{sec:org2c1ca6d}
+*** Lesson 6.10 - Ocean Acidification Video:
 
 Provides more information about ocean acidification.
 
 
 
-\subsection{Unit 7 - Climate Change}
-\label{sec:orgcc7d306}
+** Unit 7 - Climate Change
 
-\subsubsection{Assessment 7.1 - Climate Change Reflection:}
-\label{sec:org1a61c45}
+*** Assessment 7.1 - Climate Change Reflection:
 
 Students interpret what four graphs show in terms of climate change.
 
-\subsubsection{Lesson 7.1 - Climate Change Videos:}
-\label{sec:org25ca102}
+*** Lesson 7.1 - Climate Change Videos:
 
 Students watch videos on each of the four climate change topics.
 
-\subsubsection{Assessment 7.2 - Climate Change Miniquizes:}
-\label{sec:org1e1fb5f}
+*** Assessment 7.2 - Climate Change Miniquizes:
 
 Students use material provided to pass a miniquiz on each of the four climate change topics.
 
-\subsubsection{Lesson 7.2 - Climate Change Simulations:}
-\label{sec:orgb264b96}
+*** Lesson 7.2 - Climate Change Simulations:
 
 Students us a simulation app to show how
 different emission scenarios affect the severity of climate change.
 
-\subsubsection{Assessment 7.3 - Climate Change Research:}
-\label{sec:orgd95897b}
+*** Assessment 7.3 - Climate Change Research:
 
 Students define a climate change research
 question and do research to answer it.
 
 
 
-\section{Physics}
-\label{sec:orgd7a395c}
+* Physics
 
 Note: Most physics courses start with motion and then move on to unbalanced forces
 that cause the motion. I reverse this and start with forces because in the real world most
@@ -588,145 +479,120 @@ things do not have unbalanced forces.
 
 
 
-\subsection{Unit 1 - Forces}
-\label{sec:orgf014711}
+** Unit 1 - Forces
 
-\subsubsection{Assessment 1.1 - Observing a Car on a Hill:}
-\label{sec:org1d437e0}
+*** Assessment 1.1 - Observing a Car on a Hill:
 
 Students view a video of cars trying to drive up a
 hill, some making it and some not.
 
-\subsubsection{Lesson 1.1 - Experiencing Forces:}
-\label{sec:orgb12d6af}
+*** Lesson 1.1 - Experiencing Forces:
 
 Students go to stations and experience forces by
 gravity, friction, springs, and moving air.
 
-\subsubsection{Lesson 1.2 - How do Forces Act On an Object:}
-\label{sec:org253185c}
+*** Lesson 1.2 - How do Forces Act On an Object:
 
 This lesson defines body, normal, and
 tangential forces and shows how to draw them.
 
-\subsubsection{Lesson 1.3 - Forces Between Objects:}
-\label{sec:orgcdecf6a}
+*** Lesson 1.3 - Forces Between Objects:
 
 Students go to stations and experience different
 examples of forces between two objects with the intention of learning Newton’s Third Law
 about equal and opposite forces.
 
-\subsubsection{Lesson 1.4 - Free Body Diagrams:}
-\label{sec:org6cdc6b9}
+*** Lesson 1.4 - Free Body Diagrams:
 
 Students learn how to draw free body diagrams.
 
-\subsubsection{Lesson 1.5 - Practice Drawing Free Body Diagrams}
-\label{sec:org764fad6}
+*** Lesson 1.5 - Practice Drawing Free Body Diagrams
 
-\subsubsection{Assessment 1.2 - Real World Force Analysis:}
-\label{sec:org4d0eb89}
+*** Assessment 1.2 - Real World Force Analysis:
 
 Students define a situation with the three kinds of
 forces present and draw a free body diagram for the situation.
 
-\subsubsection{Lesson 1.6 - Force Lab:}
-\label{sec:orgb3e5fed}
+*** Lesson 1.6 - Force Lab:
 
 Students go to stations to measure gravitational force vs. mass,
 static friction force vs. normal force, spring force vs. spring extension, and string forces
 vs. pulling force
 
-\subsubsection{Lesson 1.7 - Force Conference:}
-\label{sec:org90936f8}
+*** Lesson 1.7 - Force Conference:
 
 Students analyze the data from the force lab to derive
 linear equations that predict the force for each station.
 
-\subsubsection{Lesson 1.8 - Force Models and Practice:}
-\label{sec:org1cd7caa}
+*** Lesson 1.8 - Force Models and Practice:
 
 Conventional equations for gravitational force,
 static friction force, and spring force are defined. Students practice using these
 equations.
 
-\subsubsection{Lesson 1.9 - Force Direction Minilab:}
-\label{sec:orga0e8ddb}
+*** Lesson 1.9 - Force Direction Minilab:
 
 Students measure the tangential force needed to
 hold a car on a slope as a function of the steepness of the slope.
 
-\subsubsection{Lesson 1.10 - Forces as Vectors:}
-\label{sec:org27bcbea}
+*** Lesson 1.10 - Forces as Vectors:
 
 Students learn about the vector nature of forces and
 how to represent force components using trigonometric functions.
 
-\subsubsection{Assessment 1.3 - Forces on a Car on a Hill:}
-\label{sec:orgbbf63aa}
+*** Assessment 1.3 - Forces on a Car on a Hill:
 
 Students use what they have learned about forces
 to calculate the gravitational, normal, and tangential forces on a car on a hill.
 
 
-\subsection{Unit 2 - Forces and Motion}
-\label{sec:org7e315c1}
+** Unit 2 - Forces and Motion
 
-\subsubsection{Assessment 2.1 - Observing a Collision:}
-\label{sec:orgbb70c82}
+*** Assessment 2.1 - Observing a Collision:
 
 Students watch a video of a car crashing into a wall
 and record their observations.
 
-\subsubsection{Lesson 2.1 - Computing the Sum of Forces on an Object:}
-\label{sec:org9adf995}
+*** Lesson 2.1 - Computing the Sum of Forces on an Object:
 
 Students learn how to compute
 the net force on an object.
 
-\subsubsection{Lesson 2.2 - Newton’s First Law:}
-\label{sec:org5416e84}
+*** Lesson 2.2 - Newton’s First Law:
 
 Students us a Phet app to find that only when the sum
 of forces is not zero will the state of motion of an object change.
 
-\subsubsection{Lesson 2.3 - One-dimensional Distance and Displacement:}
-\label{sec:org57b1af6}
+*** Lesson 2.3 - One-dimensional Distance and Displacement:
 
 Students learn the definitions
 of distance and displacement and practice by doing their own walks.
 
-\subsubsection{Lesson 2.4 - 2D Distance and Displacement:}
-\label{sec:org53c8095}
+*** Lesson 2.4 - 2D Distance and Displacement:
 
 Students do a graphical exercise in
 computing 2D distance and displacement.
 
-\subsubsection{Lesson 2.5 - Definition and Measurement of Velocity:}
-\label{sec:org827543f}
+*** Lesson 2.5 - Definition and Measurement of Velocity:
 
 Students discuss the definition of
 velocity and use the constant velocity cars to practice measuring velocity.
 
-\subsubsection{Assessment 2.2 - Observe the Motion of an Object: Students observe the motion of an object at}
-\label{sec:orgb097737}
+*** Assessment 2.2 - Observe the Motion of an Object: Students observe the motion of an object at
 home and compute its velocity.
 
-\subsubsection{Lesson 2.6 - Velocity Notes and Practice:}
-\label{sec:org2dc9aac}
+*** Lesson 2.6 - Velocity Notes and Practice:
 
 Students learn the equations for computing
 velocity and solve practice problems. I always do this with table groups using the large
 white boards.
 
-\subsubsection{Lesson 2.7 - Acceleration Notes:}
-\label{sec:org37f397c}
+*** Lesson 2.7 - Acceleration Notes:
 
 Students learn the definition of and equations for
 computing acceleration and solve practice problems.
 
-\subsubsection{Lesson 2.8 - Kinematic Equations:}
-\label{sec:orgbb0468c}
+*** Lesson 2.8 - Kinematic Equations:
 
 Students are shown the derivation of the kinematic
 equations and solve practice problems. Note: it is clumsy to derive these equations
@@ -734,8 +600,7 @@ without calculus. There are several ways to do it and this way seems the most
 intuitive, although I think few students really bother to understand the derivation.
 The requirement for constant acceleration should be stressed.
 
-\subsubsection{Lesson 2.9 - Force, Mass, and Acceleration Lab:}
-\label{sec:org5063dcc}
+*** Lesson 2.9 - Force, Mass, and Acceleration Lab:
 
 Students measure the time it takes a
 mass to go a given distance pulled by a known force. They discuss the results to derive
@@ -744,36 +609,31 @@ attention to the setup. It can be sensitive to the table being not level and to 
 on the string, but over several years it has given pretty accurate results when all
 the table group results are averaged (spreadsheet is in the Teaching Folders).
 
-\subsubsection{Lesson 2.10 - Newton’s Court:}
-\label{sec:org15074c4}
+*** Lesson 2.10 - Newton’s Court:
 
 Students work in groups to check if a statement about
 force, mass, and acceleration are correct. Note: after lesson 2.9 I gave each student
 a diploma of graduation from Newton’s Law School. The Mail Merge spreadsheet
 is in Dropbox.
 
-\subsubsection{Lesson 2.11 - Observations of Collisions:}
-\label{sec:org99e3b24}
+*** Lesson 2.11 - Observations of Collisions:
 
 Students use the frictionless cars in either
 sticky (velcro) or bouncy (magnets repelling) mode to make observations of velocity of
 each car after a 1D collision.
 
-\subsubsection{Lesson 2.12 - Momentum Notes and Calculations:}
-\label{sec:org2296a18}
+*** Lesson 2.12 - Momentum Notes and Calculations:
 
 Students learn the definition of
 momentum and impulse and the application of momentum conservation to a collision.
 They complete practice problems.
 
-\subsubsection{Lesson 2.13: Momentum Minilab:}
-\label{sec:org931b0de}
+*** Lesson 2.13: Momentum Minilab:
 
 Students use the frictionless cars and velocity gates to
 verify if momentum is conserved in a collision.
 
-\subsubsection{Assessment 2.3 - Analysis of a Collision:}
-\label{sec:org8272f76}
+*** Assessment 2.3 - Analysis of a Collision:
 
 Each student at a table is assigned a different video of
 cars crashing that includes a slow motion version, the mass of the car, and the value of the
@@ -788,60 +648,51 @@ to make either an egg catcher or an egg protector. The designs are tested by dro
 from the third floor balcony. Students complete a reflection about this activity.
 
 
-\subsection{Unit 3 - Gravity and Motion}
-\label{sec:orgbb85710}
+** Unit 3 - Gravity and Motion
 
-\subsubsection{Assessment 3.1 - Observing a Ball:}
-\label{sec:orge6bcf93}
+*** Assessment 3.1 - Observing a Ball:
 
 Students watch a ball being thrown upward from a moving
 car. This is a good video, but the assessment needs editing to direct the students to the parts
 that are different.
 
-\subsubsection{Lesson 3.1 - Tossing a Bean Bag:}
-\label{sec:org416f0f0}
+*** Lesson 3.1 - Tossing a Bean Bag:
 
 Students take notes on the application of the kinematic
 equations to vertical motion and then after tossing a bean bag into the air and observing
 how high it goes they practice calculating the initial velocity, the rise time, the fall time
 and the final velocity. This is a very dense lesson that could be split into two.
 
-\subsubsection{Lesson 3.2 – Particle Trajectory Lab:}
-\label{sec:org4f2d0bc}
+*** Lesson 3.2 – Particle Trajectory Lab:
 
 Students use the projectile launchers to find the
 initial angle that makes the distance to impact the greatest. This is a good exercise in
 group measurement.
 
-\subsubsection{Lesson 3.3 - Projectile Trajectory Exercise:}
-\label{sec:org6ac61f5}
+*** Lesson 3.3 - Projectile Trajectory Exercise:
 
 Students use the kinematic equations to
 calculate characteristics of a projectile launch and to compare their results with a Phet
 simulation.
 
-\subsubsection{Assessment 3.2 - Explaining a Ball:}
-\label{sec:org1241311}
+*** Assessment 3.2 - Explaining a Ball:
 
 Students use projectile theory concepts expressed in words
 not equations to explain why the ball in Assessment 3.1 fell back into the truck and why two of
 the tests are different (air resistance). Make sure the assessment refers to the correct tests in
 the videos.
 
-\subsubsection{Lesson 3.4 – Investigating Gravity:}
-\label{sec:org2117140}
+*** Lesson 3.4 – Investigating Gravity:
 
 Students learn about the master equation for gravity
 using Phet simulation and making calculations.
 
-\subsubsection{Lesson 3.5 – Investigating Centripetal Acceleration:}
-\label{sec:org8be65f7}
+*** Lesson 3.5 – Investigating Centripetal Acceleration:
 
 Students learn the theory of
 centripetal acceleration and use the theory to make calculations.
 
-\subsubsection{Lesson 3.6 – Centripetal Force Lab:}
-\label{sec:orgbbaf6df}
+*** Lesson 3.6 – Centripetal Force Lab:
 
 Students use experimental equipment to measure
 the centripetal acceleration. This is another good exercise in group measurement, but it
@@ -849,15 +700,13 @@ turns out to be hard to do correctly, and there is likely a large error resultin
 between the string and the tube. See the spreadsheet with class data in the 2023-24
 Teaching Folders.
 
-\subsubsection{Lesson 3.7 – Gravity and Planets:}
-\label{sec:orgd2c3010}
+*** Lesson 3.7 – Gravity and Planets:
 
 Students learn about how gravity affects the force on
 objects at the surface of a planet, the orbital period of the planet, the planet escape
 velocity, and which gases a planet will retain in its atmosphere.
 
-\subsubsection{Assessment 3.3 – Design Your Own Planet:}
-\label{sec:org44117af}
+*** Assessment 3.3 – Design Your Own Planet:
 
 Students use the theory in Lesson 3.7 to propose a
 new planet and to calculate characteristics of the planet. Note: this assessment uses the
@@ -866,17 +715,14 @@ source I researched. Contact me for more details. I think the questions on this 
 could be improved to require that the planet be habitable by humans.
 
 
-\subsection{Unit 4 – Electromagnetism}
-\label{sec:org5c7cbb5}
+** Unit 4 – Electromagnetism
 
-\subsubsection{Assessment 4.3 – Observing a Balloon:}
-\label{sec:org6ec53f5}
+*** Assessment 4.3 – Observing a Balloon:
 
 Students observe a balloon and a sweater in a Phet
 simulation and record their observations.
 
-\subsubsection{Lesson 4.1 – The Triboelectric Effect:}
-\label{sec:org5be0183}
+*** Lesson 4.1 – The Triboelectric Effect:
 
 This lesson is intended to demonstrate static
 electricity forces between different materials, but it never works consistently so I would
@@ -884,26 +730,22 @@ abandon it. An alternate lesson that might be interesting would be to use a ball
 PVC rod to measure the force on the balloon by observing the angle of deflection (this
 would require they remember how to use trigonometry to compute forces).
 
-\subsubsection{Lesson 4.2 – Electrostatic Force:}
-\label{sec:org1886613}
+*** Lesson 4.2 – Electrostatic Force:
 
 Students take notes to learn about electrostatic charge
 and forces.
 
-\subsubsection{Lesson 4.3 – Coulomb’s Law Calculations:}
-\label{sec:org2918e71}
+*** Lesson 4.3 – Coulomb’s Law Calculations:
 
 Students use a Phet simulation to make
 calculations of electrostatic force. Note there does not seem to be any way to do this
 experimentally in a quantitative way.
 
-\subsubsection{Lesson 4.4 – Magnetic Field Notes:}
-\label{sec:org5c0f6fb}
+*** Lesson 4.4 – Magnetic Field Notes:
 
 Students take notes on magnetic fields.
 
-\subsubsection{Assessment 4.2 – Magnetic Field Measurements:}
-\label{sec:orgb0ee634}
+*** Assessment 4.2 – Magnetic Field Measurements:
 
 Students use compasses to trace the
 magnetic field of a bar magnet and also to answer questions qualitatively about disc magnets.
@@ -911,30 +753,24 @@ Note – the compasses and magnets are in drawers 7 and 8 in Room 302. The bar m
 marked on one side make it easier to keep track of north and south, but the marks may have
 rubbed off.
 
-\subsubsection{Lesson 4.5 – Magnetic Fields and Moving Charges:}
-\label{sec:orgff51501}
+*** Lesson 4.5 – Magnetic Fields and Moving Charges:
 
 Students learn the theory of electromagnets and make a simple electromagnet from a nail and wire. Note: the nails
 and wire and batteries and little metal pieces to attract are in drawers 9 and 11 in Room
-\begin{enumerate}
-\item 
-\end{enumerate}
+302.
 
-\subsubsection{Lesson 4.6 – Right Hand Rule Practice:}
-\label{sec:orgb288fdb}
+*** Lesson 4.6 – Right Hand Rule Practice:
 
 Students learn about the Lorentz force and make a small reminder out of tape and a pipecleaner (in drawer 16 in Room 302).
 
-\subsubsection{Lesson 4.7 – Rail Guns:}
-\label{sec:org9cbff67}
+*** Lesson 4.7 – Rail Guns:
 
 Students work in groups to make rail guns. Supplies are in
 drawers 9 and 11 in Room 302. Note that it is important that the aluminum foil be really
 smooth and that the rail gun base and attaching wires be taped down to the table. See
 below and note that it works better if you use two magnets stacked up.
 
-\subsubsection{Lesson 4.8 – Building an Electric Motor:}
-\label{sec:org8dc4958}
+*** Lesson 4.8 – Building an Electric Motor:
 
 Students work in teams to build an electric motor. The rotor coil is made by wrapping wire around a glue stick. There are plyers in
 the bottom large drawer in the front desk and paper clips in the top large drawer. The
@@ -949,8 +785,7 @@ Note also that for the motor to work the rotor arms need to be as straight as po
 the rotor has to be as symmetrical as possible. The motor is started by spinning the
 rotor.
 
-\subsubsection{Assessment 4.3 – Electromagnetic Force Design:}
-\label{sec:orgc154e33}
+*** Assessment 4.3 – Electromagnetic Force Design:
 
 Students will propose a way to use an electromagnetic force to move a mass, and for maximum credit will compute the force needed
 and the electrical and magnetic quantities necessary to move the mass. A summary sheet
@@ -960,11 +795,9 @@ mass move, and in addition it was difficult for them to come up with the electri
 quantities.
 
 
-\subsection{Unit 5 – Waves}
-\label{sec:org51f0ea1}
+** Unit 5 – Waves
 
-\subsubsection{Assessment 5.1 – Observing Waves:}
-\label{sec:org410f97f}
+*** Assessment 5.1 – Observing Waves:
 
 Students make waves using a variety of equipment and
 record their observations. The wave stations are:
@@ -982,14 +815,12 @@ waves on a white piece of paper below the dish.
 This assessment is super non-challenging – perhaps a harder Amazing question could be
 posed.
 
-\subsubsection{Lesson 5.1 – Brainstorming Waves:}
-\label{sec:orgbc43c5f}
+*** Lesson 5.1 – Brainstorming Waves:
 
 Students worked in groups to answer four questions
 about waves on large poster paper (in Room 306 back room).
 
-\subsubsection{Lesson 5.2 – Observing Waves on a String:}
-\label{sec:org4da8b99}
+*** Lesson 5.2 – Observing Waves on a String:
 
 Students use a Phet simulation to observe
 waves on a string and come up with the important observable characteristics of waves.
@@ -1000,23 +831,20 @@ At the end of the lesson I helped them identify these charqcteristics:
 • Wave amplitude or height
 • Wave period and frequency
 
-\subsubsection{Lesson 5.3 – Measuring Waves on a String:}
-\label{sec:orgd787698}
+*** Lesson 5.3 – Measuring Waves on a String:
 
 Students measure the speed of a wave on a
 string for five combinations of amplitude, frequency, tension, and wavelength. They try to
 conclude what affects the speed (only tension) and the formula for the speed c = fl.
 
-\subsubsection{Lesson 5.4 – Standing Waves:}
-\label{sec:org585d04d}
+*** Lesson 5.4 – Standing Waves:
 
 Students use a Phet simulation and ropes or phone cords
 to investigate the frequencies of standing waves.
 Assessment 5.2 – Standing Waves: Students are assigned wave parameters to investigate
 using the Phet simulation. This is basically a repeat of Lesson 5.4 to be done individually.
 
-\subsubsection{Lesson 5.5 – Measuring the Speed of Sound:}
-\label{sec:org141b554}
+*** Lesson 5.5 – Measuring the Speed of Sound:
 
 Students work in groups to measure the
 speed of sound in air. Then they all go to the athletic field. One group goes all the way
@@ -1030,65 +858,55 @@ is about 0.5 seconds, which is hard to measure accurately so most measurements w
 to high, resulting in slower wave speeds than the correct value. But they enjoyed going
 out and making noise so it was well worth it.
 
-\subsubsection{Lesson 5.6 – Building a Loudspeaker:}
-\label{sec:org3d10249}
+*** Lesson 5.6 – Building a Loudspeaker:
 
 Students work in groups to build a working
 loudspeaker out of a plastic cup, small disc magnets, and a copper coil (there are many
 saved from the motors or they can make a new one). Then the students connect them to
 a music app on a computer and listen to a song – easy and fun!
 
-\subsubsection{Lesson 5.7 – Notes on Waves:}
-\label{sec:org9900f6c}
+*** Lesson 5.7 – Notes on Waves:
 
 Students take notes on waves. An important part of the
 notes is introducing the electromagnetic wave spectrum (not on the paper notes). I think
 more time could be spent talking about EM waves as a combination of magnetic and
 electric fields, but maybe that is too advanced.
 
-\subsubsection{Lesson 5.8 – Electromagnetic Wave Characteristics:}
-\label{sec:org00667c4}
+*** Lesson 5.8 – Electromagnetic Wave Characteristics:
 
 Students research characteristics of
 electromagnetic waves.
 
-\subsubsection{Assessment 5.3 – Wave Topics Research:}
-\label{sec:org343ef4b}
+*** Assessment 5.3 – Wave Topics Research:
 
 Students pick one of seven topics and do research
 to answer questions about the topic. This assessment could use some rewording to make sure
 students dig more deeply into their topic.
 
 
-\subsection{Unit 6 – Energy}
-\label{sec:org2655fca}
+** Unit 6 – Energy
 
 
-\subsubsection{Assessment 6.1 – Defining and Changing Energy:}
-\label{sec:org6b0e2d1}
+*** Assessment 6.1 – Defining and Changing Energy:
 
 Students propose answers to two questions using Schoology Discussion questions (I think these will have to be remade). I showed the
 answers on a screen and guided the class to these class answers:
 
-\begin{itemize}
-\item Energy is the motion of a mass and is called kinetic energy.
-\item To change the energy of the mass its motion must be changed and this requires
-\end{itemize}
+- Energy is the motion of a mass and is called kinetic energy.
+- To change the energy of the mass its motion must be changed and this requires
 an unbalanced force on the mass (sum of forces not zero).
 Students got two points for answering each of these. These definitions are good for thermal
 energy (molecules) and the KE of larger masses, but are less intuitive for electromagnetic
 radiation.
 
 
-\subsubsection{Lesson 6.1 – A Model for Changing the Kinetic Energy of an Object:}
-\label{sec:org4194bec}
+*** Lesson 6.1 – A Model for Changing the Kinetic Energy of an Object:
 
 Students use beanbags to visualize changes in kinetic energy and to formulate what kind of force
 decreases or increases the KE.
 
 
-\subsubsection{Lesson 6.2 – Notes on KE and W – note that there are three parts to these notes:}
-\label{sec:orgb9e16ee}
+*** Lesson 6.2 – Notes on KE and W – note that there are three parts to these notes:
 
 These notes define the change in KE as equal to the work W done by an unbalance force.
 Three kinds of KE are defined and eight kinds of force interactions are discussed, some
@@ -1096,31 +914,27 @@ of which are classified as potential energy changes. Note: the way I teach energ
 result of thinking about it for a long time, but it still needs work.
 
 
-\subsubsection{Lesson 6.3 – Example Calculations of DKE and W:}
-\label{sec:orgc27fa1f}
+*** Lesson 6.3 – Example Calculations of DKE and W:
 
 Students use the notes to make
 calculations of energy changes.
 
 
-\subsubsection{Assessment 6.2 – Calculating \(DKE\) and W:}
-\label{sec:orgc88ce54}
+*** Assessment 6.2 – Calculating $DKE$ and W:
 
 This assessment uses a Schoology Assessment that
 replicates the equations in Lesson 6.3 but with different numbers. I am afraid that assessment
 is probably not recoverable, but you could try.
 
 
-\subsubsection{Lesson 6.4 – Measuring Electricity:}
-\label{sec:orgd3e940d}
+*** Lesson 6.4 – Measuring Electricity:
 
 Students work in teams to use the Kill-a-Watt meters
 (in Room 302) to measure or calculate the voltage, current, and resistance of different
 electrical devices in the classroom.
 
 
-\subsubsection{Lesson 6.5 – Energy Systems:}
-\label{sec:org9c0554f}
+*** Lesson 6.5 – Energy Systems:
 
 Students are introduced to the topic of energy systems
 and use a Phet app to explore an energy system. Note: This is pretty much the same as
@@ -1128,10 +942,9 @@ Chemistry lesson 3.11. Note also that if I had more time I would have had them d
 Chemistry lesson 3.12.i
 
 
-\subsubsection{Assessment 6.3 – Energy System Project:}
-\label{sec:org7d8e54f}
+*** Assessment 6.3 – Energy System Project:
 
 Students work individually to define an energy
 system and to use what they have learned to answer questions about it. Note: this is essentially
 the same as Chemistry Assessment 3.3.
-\end{document}
+
