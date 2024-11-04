@@ -1,3 +1,2 @@
 # chemistry
 
-test push lausd
