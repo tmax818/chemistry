@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1730950160.89711 "/home/tyler/Desktop/chemistry/resources/02_unit/main.tex" "main.pdf" "main" 1730950161.52466 0
-  "/home/tyler/Desktop/chemistry/resources/02_unit/main.tex" 1730950160.47429 5455 66a7e56c731eaad3e6f39bf4653c91c1 ""
+["pdflatex"] 1731353860.97422 "/home/tyler/Desktop/chemistry/resources/02_unit/main.tex" "main.pdf" "main" 1731353862.02671 0
+  "/home/tyler/Desktop/chemistry/resources/02_unit/main.tex" 1731353860.57213 5447 5af38bc15c9b5b46c0811d100f33b997 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -82,9 +82,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727998323 3325967 01f7940432650d0bc6f72b6076700d88 ""
   "/usr/local/texlive/2024/texmf.cnf" 1727998218.91798 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "food_label.png" 1730777680.55598 703568 8e4b84b5eadf2b47e4526e7a2a4c5f7c ""
-  "main.aux" 1730950161.49128 3056 7cd6909f059ac6c831963fda965ec6b2 "pdflatex"
-  "main.out" 1730950161.28028 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1730950160.47429 5455 66a7e56c731eaad3e6f39bf4653c91c1 ""
+  "main.aux" 1731353861.95812 3056 7cd6909f059ac6c831963fda965ec6b2 "pdflatex"
+  "main.out" 1731353861.56812 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1731353860.57213 5447 5af38bc15c9b5b46c0811d100f33b997 ""
   (generated)
   "main.aux"
   "main.log"
