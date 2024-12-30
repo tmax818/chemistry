@@ -4,5 +4,6 @@
         "electronegativity",
         "Phet",
         "Stolzenback"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
