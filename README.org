@@ -1,2 +1,10 @@
 #+title: chemistry
 
+|                  | Week | Unit | Monday | Tuesday-Wednesday | Thursday | Friday |
+| [2025-01-06 Mon] |    1 |      |        |                   |          |        |
+| [2025-01-13 Mon] |    2 |      |        |                   |          |        |
+| [2025-01-20 Mon] |    3 |      | XXXXX  |                   |          |        |
+| [2025-01-27 Mon] |    4 |      |        |                   |          |        |
+| [2025-02-03 Mon] |      |      |        |                   |          |        |
+| [2025-02-10 Mon] |      |      |        |                   |          |        |
+| [2025-02-17 Mon] |      |      | XXXXXX |                   |          |        |
