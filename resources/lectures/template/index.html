@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+
+	<title>TEMPLATE</title>
+	<link rel="stylesheet" href="../../dist/reveal.css">
+	<link rel="stylesheet" href="../../dist/theme/blood.css" id="theme">
+	<link rel="stylesheet" href="../../plugin/highlight/monokai.css">
+</head>
+
+<body>
+
+	<div class="reveal">
+
+		<div class="slides">
+
+			<!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
+			<!-- <section data-markdown="01properties_of_matter.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section> -->
+
+
+			<!-- UNIT TITLE -->
+			<section>
+				<h1>Unit X</h1>
+				<p class="r-fit-text">Unit Title</p>
+			</section>
+
+			<!-- LESSON WITH NESTED CONTENT -->
+			<section>
+				<section>
+					<h2>Lesson X.X</h2>
+					<p class="r-fit-text">Lesson Title</p>
+				</section>
+				
+				<section>
+					<p>Content</p>
+				</section>
+				
+				<section>
+					<p>More content</p>
+					<img src="../images/direction.gif" alt="">
+				</section>
+				
+				<section>
+					<p>There are two kinds of forces:</p>
+					<ul>
+						<li><p><span style="color: blue;" class="fragment fade-in">keyword</span>rest</p></li>
+						<li><p><span style="color: gold;" class="fragment fade-in">keyword</span>rest</p></li>
+					</ul>
+				</section>
+				
+				
+				<section>
+					<h4>Title</h4>
+					<p class="fragment fade-in">Lorem ipsum dolor sit amet consectetur adipisicing . 
+						<span style="color: green;" class="fragment">elit</span>,
+						Pariatur, nisi! Possimus, at temporibus unde ipsam enim minima sunt fuga provident eos explicabo architecto,  
+						<span style="color: rebeccapurple;" class="fragment">perferendis</span>
+						vitae maxime soluta laborum quibusdam sed.
+					</p>
+				</section>
+				
+				
+				<section>
+					<iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab_en.html"
+					width="800" height="800" allowfullscreen>
+				</iframe>
+			</section>
+			</section>
+		
+		
+		<!-- LESSON WITH NESTED CONTENT -->
+			<section>
+				<section>
+					<h2>Lesson X.X</h2>
+					<p class="r-fit-text">Lesson Title</p>
+				</section>
+
+				<section>
+					<p>Content</p>
+				</section>
+
+				<section>
+					<p>More content</p>
+					<img src="../images/direction.gif" alt="">
+				</section>
+
+				<section>
+					<p>There are two kinds of forces:</p>
+					<ul>
+						<li><p><span style="color: blue;" class="fragment fade-in">keyword</span>rest</p></li>
+						<li><p><span style="color: gold;" class="fragment fade-in">keyword</span>rest</p></li>
+					</ul>
+				</section>
+
+
+			</section>
+
+		</div>
+	</div>
+
+	<script src="../../dist/reveal.js"></script>
+	<script src="../../plugin/markdown/markdown.js"></script>
+	<script src="../../plugin/highlight/highlight.js"></script>
+	<script src="../../plugin/notes/notes.js"></script>
+	<script src="../../plugin/math/math.js"></script>
+
+	<script>
+		Reveal.initialize({
+			controls: true,
+			progress: true,
+			history: true,
+			center: true,
+			plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX]
+		});
+	</script>
+
+</body>
+
+</html>
