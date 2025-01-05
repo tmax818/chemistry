@@ -1,106 +1,118 @@
 #+title: syllabus
+#+author: Mr. Maxwell
 
 
+*  Chemistry  
 
-*  High School Chemistry – Second Semester Syllabus  
-**Instructor:** [Instructor Name]  
-**Email:** [Instructor Email]  
-**Classroom:** [Classroom Location]  
-**Office Hours:** [Office Hours Schedule]  
+Instructor: Tyler Maxwell
+Email: [[mailto:tyler.maxwell@lausd.net][tyler.maxwell@lausd.net]]  
+Classroom: 305  
+Office Hours: After school, by appointment  
 
----
+*  Course Overview
 
-*  Course Overview  
-This course explores the principles of chemistry through hands-on activities, labs, and discussions. The second semester focuses on applying foundational knowledge to chemical reactions, energy transformations, and advanced concepts like equilibrium and kinetics. The syllabus is aligned with California State Standards and NGSS.
+This course explores the principles of chemistry through hands-on activities, labs, and discussions. The second semester focuses on applying foundational knowledge to chemical reactions, energy transformations, and advanced concepts like equilibrium and kinetics. The syllabus is aligned with [[https://www.cde.ca.gov/ci/pl/documents/ngsshsphyicalscidci.pdf][California State Standards]] and [[https://nap.nationalacademies.org/catalog/18290/next-generation-science-standards-for-states-by-states][NGSS]].
 
----
+
 
 *  Semester Goals  
+
 - Understand and apply the principles of chemical reactions and stoichiometry.  
 - Explore thermodynamics, equilibrium, and kinetics.  
 - Investigate acid-base chemistry and solution behavior.  
 - Examine real-world applications of chemistry, including environmental and industrial processes.  
 
----
+
 
 * Unit Breakdown  
 
-** Unit 5: Chemical Reactions and Stoichiometry  
-**Timeline:** 3 weeks  
-**Topics:**  
-- Types of chemical reactions: synthesis, decomposition, single replacement, double replacement, combustion.  
-- Balancing chemical equations.  
-- Mole-mass relationships and stoichiometric calculations.  
-**Key Activities:**  
-- Lab: Observing chemical reactions.  
-- Practice: Stoichiometry problem sets.  
+** Unit 1: Measuring Matter and Energy
 
-** Unit 6: Thermodynamics and Energy in Reactions  
-**Timeline:** 4 weeks  
-**Topics:**  
+*** Topics:  
+
+- Investigating Matter and Energy  
+- Identifying Physical and Chemical Properties of Matter
+- Mole-mass relationships and stoichiometric calculations.  
+
+*** Unit Vocabulary:  
+
+- calorie, potential energy, kinetic energy, conversion factor, accuracy, precision, significant figure, scientific notation
+- matter,  extensive property, intensive property, model, system, criteria, constraint, tradeoff 
+
+
+** Unit 2: Heat and Energy in the Earth System  
+
+*** Topics:  
+
 - Endothermic vs. exothermic reactions.  
 - Heat transfer, specific heat, and calorimetry.  
 - Enthalpy, entropy, and free energy.  
-**Key Activities:**  
-- Lab: Calorimetry experiments.  
-- Discussion: Real-world examples of energy in chemical processes.  
 
-** Unit 7: Equilibrium and Reaction Rates  
-**Timeline:** 3 weeks  
-**Topics:**  
+*** Unit [[denote:20250105T114229][Vocabulary]]:  
+
+- thermodynamics, internal energy, molar mass, kinetic-molecular theory
+- law of conservation of energy, specific heat capacity, entropy, work,
+- tectonic plates, P-wave, S-wave Lesson, mantle convection
+
+** Unit 3: Patterns in the Properties of Matter
+
+*** Topics:**
+
 - Chemical equilibrium and Le Chatelier’s Principle.  
 - Factors affecting reaction rates.  
 - Activation energy and catalysts.  
-**Key Activities:**  
+
+*** Key Activities:**  
+
 - Lab: Investigating equilibrium using reversible reactions.  
 - Graphing: Reaction rates and energy diagrams.  
 
-** Unit 8: Acids, Bases, and Solutions  
-**Timeline:** 4 weeks  
-**Topics:**  
-- Properties of acids and bases.  
-- pH and pOH calculations.  
-- Neutralization reactions and titration.  
-- Solubility and solution concentration (molarity).  
-**Key Activities:**  
-- Lab: Acid-base titration.  
-- Project: Analyzing household chemicals.  
 
-** Unit 9: Applications of Chemistry  
-**Timeline:** 2 weeks  
-**Topics:**  
+** Unit 4: Chemical Attractions
+
+** Unit 5: Reaction Energy
+
+** Unit 6: Human Activity and Earth's Atmosphere
+
+** Unit 7: Chemical Equilibrium Syste*** Timeline:**ms
+
+
+
+
+  
+*** Topics: 
+
 - Environmental chemistry: water treatment, pollution, and green chemistry.  
 - Industrial chemistry: synthesis of common materials.  
-**Key Activities:**  
+
+*** Key Activities:**  
+
 - Case studies: Chemistry in the environment.  
 - Group presentations: Innovations in chemistry.  
 
----
 
 * Assessments and Grading  
-- **Labs and Reports:** 30%  
-- **Quizzes and Exams:** 40%  
-- **Homework and Classwork:** 20%  
-- **Participation:** 10%  
 
----
+- Labs and Reports: 30%  
+- Quizzes and Exams: 40%  
+- Homework and Classwork: 20%  
+- Participation: 10%  
 
 * Important Dates  
+
 - **Midterm Exam:** [Insert Date]  
 - **Final Exam:** [Insert Date]  
 - **Project Due Dates:** [Insert Details]  
 
----
-
 * Materials Needed  
+
 - Textbook: [Textbook Name]  
 - Lab notebook.  
 - Scientific calculator.  
 - Safety goggles (provided in class).  
 
----
-
 * Class Policies  
+
 1. **Attendance:** Regular attendance is required for success.  
 2. **Safety:** Lab safety rules must be followed at all times.  
 3. **Late Work:** Assignments are due on the posted date; late submissions incur penalties unless prior arrangements are made.  
