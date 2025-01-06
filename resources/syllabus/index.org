@@ -1,4 +1,4 @@
-#+title: syllabus
+#+title: Chemistry Syllabus
 #+author: Mr. Maxwell
 
 
@@ -48,11 +48,7 @@ This course explores the principles of chemistry through hands-on activities, la
 - Heat transfer, specific heat, and calorimetry.  
 - Enthalpy, entropy, and free energy.  
 
-*** Unit [[denote:20250105T114229][Vocabulary]]:  
 
-- thermodynamics, internal energy, molar mass, kinetic-molecular theory
-- law of conservation of energy, specific heat capacity, entropy, work,
-- tectonic plates, P-wave, S-wave Lesson, mantle convection
 
 ** Unit 3: Patterns in the Properties of Matter
 
@@ -70,14 +66,16 @@ This course explores the principles of chemistry through hands-on activities, la
 
 ** Unit 4: Chemical Attractions
 
+
+- thermodynamics, internal energy, molar mass, kinetic-molecular theory
+- law of conservation of energy, specific heat capacity, entropy, work,
+- tectonic plates, P-wave, S-wave Lesson, mantle convection
+
 ** Unit 5: Reaction Energy
 
 ** Unit 6: Human Activity and Earth's Atmosphere
 
-** Unit 7: Chemical Equilibrium Syste*** Timeline:**ms
-
-
-
+** Unit 7: Chemical Equilibrium Systems
 
   
 *** Topics: 
@@ -100,13 +98,13 @@ This course explores the principles of chemistry through hands-on activities, la
 
 * Important Dates  
 
-- **Midterm Exam:** [Insert Date]  
-- **Final Exam:** [Insert Date]  
-- **Project Due Dates:** [Insert Details]  
+- **Midterm Exam:** TBD  
+- **Final Exam:** TBD  
+ 
 
 * Materials Needed  
 
-- Textbook: [Textbook Name]  
+- Textbook: Chemistry in the Universe  
 - Lab notebook.  
 - Scientific calculator.  
 - Safety goggles (provided in class).  
