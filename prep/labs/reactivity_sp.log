@@ -1,0 +1,210 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  13 JAN 2025 12:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/teacher/chemistry/prep/labs/reactivity_sp.tex
+(/Users/teacher/chemistry/prep/labs/reactivity_sp.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/exam/exam.cls
+Document Class: exam 2023/07/09 Version 2.704 by Philip Hirschhorn
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+\@extrawidth=\skip50
+\@rightmargin=\skip51
+\@extrahead=\skip52
+\@extrafoot=\skip53
+\run@exhd=\skip54
+\fp@exhd=\skip55
+\run@exft=\skip56
+\fp@exft=\skip57
+\covrun@exhd=\skip58
+\covfp@exhd=\skip59
+\covrun@exft=\skip60
+\covfp@exft=\skip61
+\c@num@coverpages=\count196
+\c@latest@ques=\count197
+\c@ques@end=\count198
+\c@last@object=\count199
+\c@incmp@ques=\count266
+\c@next@ques=\count267
+\c@next@page=\count268
+\c@tmp@hlfcntr=\count269
+\c@ifpos@cntr=\count270
+\c@question=\count271
+\c@partno=\count272
+\c@subpart=\count273
+\c@subsubpart=\count274
+\c@choice=\count275
+\c@numpoints=\count276
+\c@numbonuspoints=\count277
+\c@pointsof@thisquestion=\count278
+\c@bonuspointsof@thisquestion=\count279
+\c@numquestions=\count280
+\c@numparts=\count281
+\c@numsubparts=\count282
+\c@numsubsubparts=\count283
+\c@Curr@Page=\count284
+\c@@pagepoints=\count285
+\c@@pagebonuspoints=\count286
+\c@pageof@pagepoints=\count287
+\c@pageof@pagebonuspoints=\count288
+\c@latest@points=\count289
+\c@latest@bonuspoints=\count290
+\pageinfo@commands=\toks17
+\temp@toks=\toks18
+\pagepoint@commands=\toks19
+\point@toks=\toks20
+\c@ques@object=\count291
+\marginpointssep=\skip62
+\rightpointsmargin=\skip63
+\choice@toks=\toks21
+\answerlinelength=\skip64
+\answerskip=\skip65
+\answerclearance=\skip66
+\fillinlinelength=\skip67
+\linefillheight=\skip68
+\linefillthickness=\skip69
+\dottedlinefillheight=\skip70
+\gridsize=\skip71
+\gridlinewidth=\skip72
+\minboxheight=\skip73
+\c@@iterator=\count292
+\@cellwidth=\skip74
+\c@tbl@points=\count293
+\c@tbl@bonuspoints=\count294
+\c@pq@index=\count295
+\c@pq@index@pts=\count296
+\c@pq@index@bpts=\count297
+\c@num@cols=\count298
+\c@num@rows=\count299
+\c@current@row=\count300
+\c@cols@done=\count301
+\c@exam@saved@eqnum=\count302
+\exam@box=\box51
+\saved@totalleftmargin=\dimen141
+\@sollistdepth=\count303
+\exam@FrameRule=\dimen142
+\exam@FrameSep=\dimen143
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count304
+\Gm@cntv=\count305
+\c@Gm@tempcnt=\count306
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks23
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count307
+\l__pdf_internal_box=\box52
+) (./reactivity_sp.aux)
+\openout1 = `reactivity_sp.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-45.36449pt
+* \headheight=15.0pt
+* \headsep=15.0pt
+* \topskip=11.0pt
+* \footskip=29.0pt
+* \marginparwidth=36.135pt
+* \marginparsep=5.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2]
+This exam contains 2 questions with 0 parts, 0 subparts, and 0 subsubparts.
+(./reactivity_sp.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2165 strings out of 474116
+ 34129 string characters out of 5743681
+ 1936187 words of memory out of 5000000
+ 24578 multiletter control sequences out of 15000+600000
+ 560228 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,10n,65p,323b,252s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on reactivity_sp.pdf (2 pages, 60890 bytes).
+PDF statistics:
+ 32 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
