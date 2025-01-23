@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737649189.43982 "/Users/teacher/chemistry/resources/content/unit03/beamer/main.tex" "main.pdf" "main" 1737649191.66444 0
-  "/Users/teacher/chemistry/resources/content/unit03/beamer/main.tex" 1737649186.82327 1015 78fcb50c6ed57cc80f6a852ad0e51f6e ""
+["pdflatex"] 1737649474.5252 "/Users/teacher/chemistry/resources/content/unit03/beamer/main.tex" "main.pdf" "main" 1737649477.17938 0
+  "/Users/teacher/chemistry/resources/content/unit03/beamer/main.tex" 1737649474.13547 1089 eec9f6deabfed33566101232ce723101 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -201,10 +201,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734113132.60937 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734113125 8221431 f0757a3495fe1938f77fd7984efc5419 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1737649191.52723 1102 21143ae15c7874bdb99162e0393d595d "pdflatex"
-  "main.nav" 1737649191.52846 669 fab92acd04137faa3b56a301034b510e "pdflatex"
-  "main.out" 1737649190.47357 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1737649186.82327 1015 78fcb50c6ed57cc80f6a852ad0e51f6e ""
+  "main.aux" 1737649477.05025 1102 1bb536a388001af4ad0552da445d8dc6 "pdflatex"
+  "main.nav" 1737649477.05157 669 f79ace198ee46960303419c311af9ce6 "pdflatex"
+  "main.out" 1737649475.61644 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1737649474.13547 1089 eec9f6deabfed33566101232ce723101 ""
   (generated)
   "main.aux"
   "main.log"
