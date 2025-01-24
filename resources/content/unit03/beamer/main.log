@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  24 JAN 2025 07:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  24 JAN 2025 07:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -786,22 +786,13 @@ File: ../../images/Bohr.jpg Graphic file (type jpg)
 <use ../../images/Bohr.jpg>
 Package pdftex.def Info: ../../images/Bohr.jpg  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 120.14827pt.
-<../../images/bohr_atom_N.jpg, id=631, 1284.8pt x 722.7pt>
-File: ../../images/bohr_atom_N.jpg Graphic file (type jpg)
-<use ../../images/bohr_atom_N.jpg>
-Package pdftex.def Info: ../../images/bohr_atom_N.jpg  used on input line 93.
-(pdftex.def)             Requested size: 113.81102pt x 64.01463pt.
  [23
 
- <../../images/Bohr.jpg> <../../images/bohr_atom_N.jpg>]
+ <../../images/Bohr.jpg>]
 File: ../../images/Bohr.jpg Graphic file (type jpg)
 <use ../../images/Bohr.jpg>
 Package pdftex.def Info: ../../images/Bohr.jpg  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 120.14827pt.
-File: ../../images/bohr_atom_N.jpg Graphic file (type jpg)
-<use ../../images/bohr_atom_N.jpg>
-Package pdftex.def Info: ../../images/bohr_atom_N.jpg  used on input line 93.
-(pdftex.def)             Requested size: 113.81102pt x 64.01463pt.
  [24
 
 ] [25
@@ -811,6 +802,14 @@ Package pdftex.def Info: ../../images/bohr_atom_N.jpg  used on input line 93.
 ] [27
 
 ]
+<../../images/bohr_atom_N.jpg, id=764, 1284.8pt x 722.7pt>
+File: ../../images/bohr_atom_N.jpg Graphic file (type jpg)
+<use ../../images/bohr_atom_N.jpg>
+Package pdftex.def Info: ../../images/bohr_atom_N.jpg  used on input line 107.
+(pdftex.def)             Requested size: 113.81102pt x 64.01463pt.
+ [28
+
+ <../../images/bohr_atom_N.jpg>]
 \tf@nav=\write6
 \openout6 = `main.nav'.
 
@@ -829,18 +828,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: CE427CDDBB639A57B2D7B3C7BE44A1BE;237.
  ) 
 Here is how much of TeX's memory you used:
- 22717 strings out of 474116
- 446204 string characters out of 5743681
+ 22721 strings out of 474116
+ 446239 string characters out of 5743681
  1937187 words of memory out of 5000000
- 44547 multiletter control sequences out of 15000+600000
+ 44549 multiletter control sequences out of 15000+600000
  565419 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,466b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (27 pages, 232418 bytes).
+Output written on main.pdf (28 pages, 234099 bytes).
 PDF statistics:
- 806 PDF objects out of 1000 (max. 8388607)
- 734 compressed objects within 8 object streams
- 57 named destinations out of 1000 (max. 500000)
+ 833 PDF objects out of 1000 (max. 8388607)
+ 759 compressed objects within 8 object streams
+ 59 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

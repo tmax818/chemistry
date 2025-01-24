@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1737732189.89184 "/Users/teacher/chemistry/resources/content/unit03/beamer/main.tex" "main.pdf" "main" 1737732193.11754 0
+["pdflatex"] 1737734389.36993 "/Users/teacher/chemistry/resources/content/unit03/beamer/main.tex" "main.pdf" "main" 1737734392.54418 0
   "../../images/Bohr.jpg" 1737730056.9937 38725 08adc2524b235bb2d7577f53cba48721 ""
   "../../images/bohr_atom_N.jpg" 1737730838.38635 77132 4762dd12fc2af5395f12d0674e05393b ""
-  "/Users/teacher/chemistry/resources/content/unit03/beamer/main.tex" 1737732189.62847 2194 b37efa4554ee44e647689df949d9d2f2 ""
+  "/Users/teacher/chemistry/resources/content/unit03/beamer/main.tex" 1737734389.09632 2252 ff0d5a52ab7494448043467201c643dd ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -204,10 +204,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734113132.60937 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734113125 8221431 f0757a3495fe1938f77fd7984efc5419 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1737732192.96124 2014 d90579bcf90cadd1bac929b7a42b65e0 "pdflatex"
-  "main.nav" 1737732192.96294 1242 3dd694094cbe0f20ea414daf45d31786 "pdflatex"
-  "main.out" 1737732192.96237 237 ce427cddbb639a57b2d7b3c7be44a1be "pdflatex"
-  "main.tex" 1737732189.62847 2194 b37efa4554ee44e647689df949d9d2f2 ""
+  "main.aux" 1737734392.40196 2152 0fc2dac795b5920a855a28d935c6fdab "pdflatex"
+  "main.nav" 1737734392.40375 1344 93b6ff06c9777221fd162a86d329ac89 "pdflatex"
+  "main.out" 1737734392.4031 237 ce427cddbb639a57b2d7b3c7be44a1be "pdflatex"
+  "main.tex" 1737734389.09632 2252 ff0d5a52ab7494448043467201c643dd ""
   (generated)
   "main.aux"
   "main.log"
