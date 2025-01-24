@@ -15,10 +15,12 @@
 \headcommand {\beamer@framepages {17}{22}}
 \headcommand {\beamer@subsectionpages {2}{22}}
 \headcommand {\beamer@subsectionentry {0}{1}{1}{23}{Bohr Model}}
-\headcommand {\slideentry {1}{1}{1}{23/23}{Bohr Model}{0}}
-\headcommand {\beamer@framepages {23}{23}}
-\headcommand {\beamer@partpages {1}{23}}
-\headcommand {\beamer@subsectionpages {23}{23}}
-\headcommand {\beamer@sectionpages {2}{23}}
-\headcommand {\beamer@documentpages {23}}
-\headcommand {\gdef \inserttotalframenumber {7}}
+\headcommand {\slideentry {1}{1}{1}{23/24}{Bohr Model}{0}}
+\headcommand {\beamer@framepages {23}{24}}
+\headcommand {\slideentry {1}{1}{2}{25/27}{Bohr Model}{0}}
+\headcommand {\beamer@framepages {25}{27}}
+\headcommand {\beamer@partpages {1}{27}}
+\headcommand {\beamer@subsectionpages {23}{27}}
+\headcommand {\beamer@sectionpages {2}{27}}
+\headcommand {\beamer@documentpages {27}}
+\headcommand {\gdef \inserttotalframenumber {8}}
