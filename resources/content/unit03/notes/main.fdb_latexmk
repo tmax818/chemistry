@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737691205.97357 "/home/tyler/chemistry/resources/content/unit03/notes/main.tex" "main.pdf" "main" 1737691206.29475 0
-  "/home/tyler/chemistry/resources/content/unit03/notes/main.tex" 1737691205.48199 1290 b7d930e8794186bab5d2c5e92e36c3b8 ""
+["pdflatex"] 1737692508.53884 "/home/tyler/chemistry/resources/content/unit03/notes/main.tex" "main.pdf" "main" 1737692508.87648 0
+  "/home/tyler/chemistry/resources/content/unit03/notes/main.tex" 1737692508.38215 1258 2e93ddfb24dafed67a8ef46220ed6531 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -46,8 +46,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727998225 5474867 7194e02fe3e8648570d423be8d224101 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727998323 3325967 01f7940432650d0bc6f72b6076700d88 ""
   "/usr/local/texlive/2024/texmf.cnf" 1727998218.91798 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "main.aux" 1737691206.27098 1763 5a8cbd784da0a31f7a314b57a58413d2 "pdflatex"
-  "main.tex" 1737691205.48199 1290 b7d930e8794186bab5d2c5e92e36c3b8 ""
+  "main.aux" 1737692508.85314 1763 5a8cbd784da0a31f7a314b57a58413d2 "pdflatex"
+  "main.tex" 1737692508.38215 1258 2e93ddfb24dafed67a8ef46220ed6531 ""
   (generated)
   "main.aux"
   "main.log"

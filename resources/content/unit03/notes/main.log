@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  23 JAN 2025 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  23 JAN 2025 20:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -262,28 +262,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Overfull \hbox (257.50232pt too wide) in paragraph at lines 15--16
-[][] 
- []
-
-
-Overfull \hbox (0.27426pt too wide) in paragraph at lines 21--21
+Overfull \hbox (0.27426pt too wide) in paragraph at lines 20--20
 []\OT1/cmr/bx/n/14.4 atomic num-ber and mass 
  []
 
 
-Overfull \hbox (6.9889pt too wide) in paragraph at lines 23--24
+Overfull \hbox (6.9889pt too wide) in paragraph at lines 22--23
 [] \OT1/cmr/m/n/12 in the nu-cleus of an atom. 
- []
-
-
-Overfull \hbox (7.74805pt too wide) in paragraph at lines 25--26
-\OT1/cmr/m/n/12 of [] and []in
- []
-
-
-Overfull \hbox (53.76797pt too wide) in paragraph at lines 36--37
-[]\OT1/cmr/m/n/12 The [] is the num-ber of []in
  []
 
 
@@ -291,7 +276,6 @@ Overfull \hbox (53.76797pt too wide) in paragraph at lines 36--37
 
 
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
 
 
 ]
@@ -305,13 +289,13 @@ L3 programming layer <2024-09-10>
 Here is how much of TeX's memory you used:
  4108 strings out of 473579
  69452 string characters out of 5728234
- 491792 words of memory out of 5000000
+ 491819 words of memory out of 5000000
  27001 multiletter control sequences out of 15000+600000
  562690 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,79p,387b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,13n,79p,387b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on main.pdf (1 page, 37965 bytes).
+Output written on main.pdf (1 page, 38136 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
