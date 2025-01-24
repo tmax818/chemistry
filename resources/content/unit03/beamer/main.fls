@@ -378,6 +378,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathker
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT ../../images/Bohr.jpg
+INPUT ../../images/Bohr.jpg
+INPUT ../../images/Bohr.jpg
+INPUT ../../images/Bohr.jpg
+INPUT ../../images/Bohr.jpg
 OUTPUT main.nav
 OUTPUT main.toc
 OUTPUT main.snm

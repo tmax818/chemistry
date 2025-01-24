@@ -1,17 +1,24 @@
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
 \headcommand {\beamer@framepages {1}{1}}
-\headcommand {\slideentry {0}{0}{2}{2/4}{}{0}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{Atomic Structure}{2}{Atomic Structure}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/4}{}{0}}
 \headcommand {\beamer@framepages {2}{4}}
-\headcommand {\slideentry {0}{0}{3}{5/8}{}{0}}
+\headcommand {\slideentry {1}{0}{2}{5/8}{}{0}}
 \headcommand {\beamer@framepages {5}{8}}
-\headcommand {\slideentry {0}{0}{4}{9/11}{}{0}}
+\headcommand {\slideentry {1}{0}{3}{9/11}{}{0}}
 \headcommand {\beamer@framepages {9}{11}}
-\headcommand {\slideentry {0}{0}{5}{12/16}{}{0}}
+\headcommand {\slideentry {1}{0}{4}{12/16}{}{0}}
 \headcommand {\beamer@framepages {12}{16}}
-\headcommand {\slideentry {0}{0}{6}{17/22}{}{0}}
+\headcommand {\slideentry {1}{0}{5}{17/22}{}{0}}
 \headcommand {\beamer@framepages {17}{22}}
-\headcommand {\beamer@partpages {1}{22}}
-\headcommand {\beamer@subsectionpages {1}{22}}
-\headcommand {\beamer@sectionpages {1}{22}}
-\headcommand {\beamer@documentpages {22}}
-\headcommand {\gdef \inserttotalframenumber {6}}
+\headcommand {\beamer@subsectionpages {2}{22}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{23}{Bohr Model}}
+\headcommand {\slideentry {1}{1}{1}{23/23}{Bohr Model}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\beamer@partpages {1}{23}}
+\headcommand {\beamer@subsectionpages {23}{23}}
+\headcommand {\beamer@sectionpages {2}{23}}
+\headcommand {\beamer@documentpages {23}}
+\headcommand {\gdef \inserttotalframenumber {7}}
