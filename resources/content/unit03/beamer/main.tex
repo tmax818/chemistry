@@ -1,6 +1,6 @@
 \documentclass{beamer}
 \usepackage[version=4]{mhchem} 
-
+\usepackage{tikz}
 
 
 \usetheme{Madrid}
@@ -53,24 +53,20 @@
 \begin{frame}
     \frametitle{Helium}
  $$\ce{^{4}_{2}He}$$
+
     \pause What does the \alert{4} mean?
-
     \pause \alert{4} is the total number of neutrons and protons.
-
     \pause What does the \alert{2} mean?
-
     \pause \alert{2} is the number of protons.
 \end{frame}
 
 \begin{frame}
     \frametitle{Lithium}
  $$\ce{^{7}_{3}Li}$$
+
     \pause How many protons does Lithium have?
-
     \pause 3
-
     \pause How many neutrons?
-
     \pause $7 - 3 = \pause 4 $
 
 \end{frame}
@@ -81,15 +77,22 @@
     \begin{columns}
         \frametitle{The Great Dane}
         \begin{column}{0.5\textwidth}
-            \includegraphics[width=3cm]{../../images/Bohr.jpg}
+            \includegraphics[width=3cm]{../../../../public/images/Bohr.jpg}
         \end{column}
         \begin{column}{0.5\textwidth}
             The Bohr Model - Bohr proposed that an atom was a nucleus with electrons "orbiting" in different 
             \pause \alert{energy levels}.
             \vspace{1cm}
+
         
         \end{column}
     \end{columns}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Energy Levels}
+    \onslide Electrons can only have certain energy values known as
+    \pause \alert{energy levels} 
 \end{frame}
 
 \begin{frame}
@@ -99,12 +102,76 @@
     \onslide energy, while those further from away have 
     \pause\alert{higher} 
     \onslide energy.
+    \vspace{.5cm}
+
+    \begin{tikzpicture}
+    \foreach \r/\c in {1/n=1, 2/n=2, 3/n=3} 
+    {
+      \pause \node[circle, draw, minimum size=2*\r cm,label=right:\c] {};
+    }
+      \end{tikzpicture}
+      \onslide \vspace{.25cm}
 \end{frame}
 
 \begin{frame}
-    \frametitle{Nitrogen}
-    \includegraphics[width=4cm]{../../images/bohr_atom_N.jpg}
+    \frametitle{Energy Levels and the Periodic Table}
+    \includegraphics[width=10cm]{../../../../public/images/pTable.png}
 \end{frame}
+
+\begin{frame}
+    \frametitle{Energy Level of Hydrogen}
+    \begin{columns}
+        
+        \begin{column}{0.5\textwidth}
+            \includegraphics[width=6cm]{../../../../public/images/pTable.png}
+            
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            \begin{tikzpicture}
+                \foreach \r/\c in {1/H} { \pause \node[circle, draw, minimum size=2*\r cm,label=center:\c] {};}
+                \end{tikzpicture}
+            
+        \end{column}
+    \end{columns}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Energy Level of Lithium}
+    \begin{columns}
+        
+        \begin{column}{0.5\textwidth}
+            \includegraphics[width=6cm]{../../../../public/images/pTable.png}
+            
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            \begin{tikzpicture}
+                \foreach \r/\c in {1/Li, 2/} { \pause \node[circle, draw, minimum size=2*\r cm,label=center:\c] {};}
+                \end{tikzpicture}
+            
+        \end{column}
+    \end{columns}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Energy Level of Sodium}
+    \begin{columns}
+        
+        \begin{column}{0.5\textwidth}
+            \includegraphics[width=6cm]{../../../../public/images/pTable.png}
+            
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            \begin{tikzpicture}
+                \foreach \r/\c in {1/Na, 2/, 3/} { \pause \node[circle, draw, minimum size=2*\r cm,label=center:\c] {};}
+                \end{tikzpicture}
+            
+        \end{column}
+    \end{columns}
+
+\end{frame}
+
 
 
 \end{document}

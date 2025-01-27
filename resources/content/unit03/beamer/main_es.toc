@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Atomic Structure}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Bohr Model}{23}{0}{1}

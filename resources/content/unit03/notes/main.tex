@@ -67,54 +67,35 @@ How many neutrons? \fillin[1][1cm]
 
 \question   The Bohr Model - Bohr proposed that an atom was a nucleus with electrons "orbiting" in different \fillin[energy levels].
 
+\question Electrons can only have certain energy values known as \fillin[energy levels]
+
 \question The electrons closest to the nucleus have the \fillin[lowest] energy, while those further from away have \fillin[higher] energy.
+
+\question draw the electron configuration for \ce{H}
+
+\vspace{.5cm}
+\begin{tikzpicture}
+\foreach \r/\c in {1/H} {\node[circle, draw, minimum size=2*\r cm,label=center:\c] {};}
+\end{tikzpicture}
+
+
+\question draw the electron configuration for \ce{Li}
+
+\vspace{.5cm}
+\begin{tikzpicture}
+\foreach \r/\c in {1/Li, 2/ } {\node[circle, draw, minimum size=2*\r cm,label=center:\c] {};}
+\end{tikzpicture}
+
+\question draw the electron configuration for \ce{Na}
+
+\vspace{.5cm}
+\begin{tikzpicture}
+\foreach \r/\c in {1/Na, 2/, 3/ } {\node[circle, draw, minimum size=2*\r cm,label=center:\c] {};}
+\end{tikzpicture}
+
 
 \end{questions}
 
 
-\begin{figure}[h!]
-\begin{center}
-    
-    \begin{tikzpicture} 
-        
-        \draw(0,0) circle (0.4cm)
-        node[draw=none,sloped]{};    
-        
-        
-        \draw(0,0) circle (1cm) node[draw=none,sloped]{N};
-        
-        \draw(0,0) circle (1.55cm);
-        \node[draw=none,align=center, font=\scriptsize,text width = 1.25cm] at (0,3) {};
-        
-        % \draw(0,0) circle (2.35cm);
-        % \node[draw=none,align=center, font=\scriptsize,text width = 1.25cm] at (0,4) {};
-        
-        %   \draw(0,-9) circle (0.4cm);
-        %   \node[draw=none,align=center, font=\scriptsize,text width = 1.25cm] at (0,-9) {fsgsdgf};  
-        
-        %   \draw(0,-9) circle (0.75cm);
-        %   \node[draw=none,align=center, font=\scriptsize,text width = 1.25cm] at (0,-7.8) {fgdsfg};
-        
-        %   \draw(0,-9) circle (1.25cm) node[midway,sloped] at (0,-9) {dfsdfad};
-        
-        %   \draw(0,-9) circle (2.8cm);
-        %   \node[draw=none,align=center, font=\scriptsize,text width = 1.25cm] at (0,-6.4) {dfsdfsd};
-        
-        %   \draw(0,-9) circle (3.2cm);
-        %   \node[draw=none,align=center, font=\scriptsize,text width = 1.25cm] at (0,-6) {dfsdfsd};
-        
-        %   \draw(0,-9) circle (3.6cm);
-        %   \node[draw=none,align=center, font=\scriptsize,text width = 1.25cm] at (0,-5.6) {sfdsfd};
-        
-        %   \draw(0,-9) circle (4.4cm);
-        %   \node[draw=none,align=center, font=\scriptsize,text width = 1.25cm] at (0,-4.8) {sdfsf}; 
-        
-        %   \pgfsetlinewidth{3pt} 
-        %   \draw [-implies][->] (0,-4) -- (0,-4.6);
-        
-        
-    \end{tikzpicture} 
-\end{center}
-    
-    \end{figure}
+
 \end{document}
