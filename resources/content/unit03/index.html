@@ -94,7 +94,7 @@
      <div class="card-group mt-3">
        
        <div class="card bg-secondary" style="width: 16rem;">
-         <img class="card-img-top" src="../images/atom.webp" alt="Card image cap" height="300px" width="200px">
+         <img class="card-img-top" src="../../../public/images/atom.webp" alt="Card image cap" height="300px" width="200px">
          <div class="card-body">
            <h5 class="card-title">Modeling Atomic Structure</h5>
            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -106,7 +106,7 @@
         
         
         <div class="card bg-secondary" style="width: 16rem;">
-          <img class="card-img-top" src="../images/periodic-table.webp" alt="Card image cap" height="300px"  width="200px">
+          <img class="card-img-top" src="../../../public/images/periodic-table.webp" alt="Card image cap" height="300px"  width="200px">
           <div class="card-body">
             <h5 class="card-title">Investigating Patterns in the Periodic Table</h5>
             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -118,7 +118,7 @@
         
         
         <div class="card bg-secondary" style="width: 16rem;">
-          <img class="card-img-top" src="../images/Chemical_compounds.webp" alt="Card image cap" height="300px" width="200px">
+          <img class="card-img-top" src="../../../public/images/Chemical_compounds.webp" alt="Card image cap" height="300px" width="200px">
           <div class="card-body">
             <h5 class="card-title">The Arrangement of Atoms in Compounds</h5>
             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -138,73 +138,44 @@
        <div id="vocabulary">
 
          <h2 class="mt-5">Vocabulary</h2>
-         <table class="table">
-           <tbody>
-             <tr>
-               <td><a href="#">electrons</a></td>
-               <td><a href="#">nucleus</a></td>
-               <td><a href="#">proton</a></td>
-               <td><a href="#">neutron</a></td>
-              </tr>
-              <tr>
-                <td><a href="#">orbital</a></td>
-                <td><a href="#">valence electron</a></td>
-                <td><a href="#">atomic number</a></td>
-                <td><a href="#">mass number</a></td>
 
-              </tr>
-              <tr>
-                <td><a href="#">atomic radius</a></td>
-                <td><a href="#">electronegativity</a></td>
-                <td><a href="#">ionic bond</a></td>
-                <td><a href="#">covalent bond</a></td>
-              </tr>
-              <tr>
-                <td><a href="#">molecule</a></td>
-                <td><a href="#">metallic bond</a></td>
-                <td><a href="#">polyatomic ion</a></td>
-                <td><a href="#">ionization energy</a></td>
-              </tr>
-            </tbody>
-          </table>
+          <div class="accordion" id="vocabulary">
 
 
-          <div class="accordion" id="accordionExample">
             <div class="accordion-item">
-              <h2 class="accordion-header" id="headingOne">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  electrons
+              <h2 class="accordion-header" id="headingAtomic-number">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAtomic-number" aria-expanded="false" aria-controls="collapseAtomic-number">
+                  atomic number
                 </button>
               </h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div id="collapseAtomic-number" class="accordion-collapse collapse" aria-labelledby="headingAtomic-number" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong> a subatomic particle that carries a negative electric charge. </strong>
+                  <strong>the number of protons in the nucleus of an atom </strong> 
+                  <p><sub>atomic number</sub>H</p>
                 </div>
               </div>
             </div>
+
+
             <div class="accordion-item">
-              <h2 class="accordion-header" id="headingTwo">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  neutron
+              <h2 class="accordion-header" id="headingMass-number">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMass-number" aria-expanded="false" aria-controls="collapseMass-number">
+                  mass number
                 </button>
               </h2>
-              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+              <div id="collapseMass-number" class="accordion-collapse collapse" aria-labelledby="headingMass-number" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong> a subatomic particle that carries No electric charge. </strong> 
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingThree">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  proton
-                </button>
-              </h2>
-              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <strong> a subatomic particle that carries a positive electric charge. </strong> 
+                  <strong>the number of protons and neutrons in the nucleus of an atom </strong> 
+                  <p>
+                    <sup>mass number</sup>H
+
+                  </p>
                 </div>
               </div>
             </div>
+
+
+
           </div>
         </div>
       <!-- VOCABULARY END  -->
