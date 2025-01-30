@@ -1,6 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1737996753.91679 "/Users/teacher/chemistry/resources/content/unit03/notes/main.tex" "main.pdf" "main" 1737996755.3681 0
-  "/Users/teacher/chemistry/resources/content/unit03/notes/main.tex" 1737996752.16031 3921 e37e4185176a866b1e19abe7700b8e3a ""
+["pdflatex"] 1738254359.1526 "/Users/teacher/chemistry/resources/content/unit03/notes/main.tex" "main.pdf" "main" 1738254360.7076 0
+  "../../../../public/images/ptable_white.png" 1738254174.98683 83102 8b81a40face6cbe437a594740ee15e01 ""
+  "/Users/teacher/chemistry/resources/content/unit03/notes/main.tex" 1738254358.89539 4034 9dc4834d2a3a7135110968aa8360ee82 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -142,8 +143,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734113132.60937 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734113125 8221431 f0757a3495fe1938f77fd7984efc5419 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1737996755.2311 3457 7a8f3e038fdeb74669b19677fc6a9f07 "pdflatex"
-  "main.tex" 1737996752.16031 3921 e37e4185176a866b1e19abe7700b8e3a ""
+  "main.aux" 1738254360.55979 3559 78ac5201ded207ad40fe64e5193a4338 "pdflatex"
+  "main.tex" 1738254358.89539 4034 9dc4834d2a3a7135110968aa8360ee82 ""
   (generated)
   "main.aux"
   "main.log"
