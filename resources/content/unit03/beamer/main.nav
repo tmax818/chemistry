@@ -43,8 +43,12 @@
 \headcommand {\beamer@subsectionentry {0}{1}{6}{56}{The Periodic Table}}
 \headcommand {\slideentry {1}{6}{1}{56/58}{The Periodic Table}{0}}
 \headcommand {\beamer@framepages {56}{58}}
-\headcommand {\beamer@partpages {1}{58}}
-\headcommand {\beamer@subsectionpages {59}{58}}
-\headcommand {\beamer@sectionpages {3}{58}}
-\headcommand {\beamer@documentpages {58}}
-\headcommand {\gdef \inserttotalframenumber {15}}
+\headcommand {\slideentry {1}{6}{2}{59/61}{The Periodic Table}{0}}
+\headcommand {\beamer@framepages {59}{61}}
+\headcommand {\slideentry {1}{6}{3}{62/64}{The Periodic Table}{0}}
+\headcommand {\beamer@framepages {62}{64}}
+\headcommand {\beamer@partpages {1}{64}}
+\headcommand {\beamer@subsectionpages {65}{64}}
+\headcommand {\beamer@sectionpages {3}{64}}
+\headcommand {\beamer@documentpages {64}}
+\headcommand {\gdef \inserttotalframenumber {17}}
