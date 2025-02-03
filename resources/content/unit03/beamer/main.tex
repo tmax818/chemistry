@@ -17,7 +17,11 @@
 
 \frame{\titlepage}
 
+\frame{\tableofcontents}
+
 \section{Atomic Structure}
+
+\subsection{Atomic Number}
 
 \begin{frame}
     \frametitle{Atomic Number}
@@ -28,7 +32,7 @@
  \onslide in the nucleus of an atom.
 \end{frame}
 
-
+\subsection{Mass Number}
 \begin{frame}
     \frametitle{Atomic Mass}
     \onslide The 
@@ -40,6 +44,8 @@
      \onslide in the nucleus of an atom.
     \end{frame}
 
+
+\subsection{Hydrogen}    
 \begin{frame}
     \frametitle{Hydrogen}
     $$\ce{^{\alert{1}}_{}H}$$
@@ -115,29 +121,23 @@
 
         \coordinate (center) at (0,0);
         \def\radius{1.5cm}
-        % a circle
+   
         
-        
-        % a random point of the circle
-        
-        \onslide<3->\fill[blue] (-.15, .15) circle[radius=4pt]; 
-        \onslide<2->\fill[red] (-.1, .1) circle[radius=4pt]node[above left] {+}; 
-        
-        \onslide<3->\fill[blue] (.15, -.15) circle[radius=4pt]; 
+        \onslide<4->\fill[blue] (-.15, .15) circle[radius=4pt]; 
+        \onslide<2->\fill[red] (-.1, .1) circle[radius=4pt]node[above left] {+};  
+        \onslide<4->\fill[blue] (.15, -.15) circle[radius=4pt]; 
         \onslide<2->\fill[red] (.1, -.1) circle[radius=4pt]node[above right] {+}; 
-        
-        \onslide<3->\fill[blue] (.18, .18) circle[radius=4pt]; 
+        \onslide<4->\fill[blue] (.18, .18) circle[radius=4pt]; 
         \onslide<2->\fill[red] (.15, .15) circle[radius=4pt]node[below right] {+}; 
-        
-        \onslide<3->\fill[blue] (-.15, -.15) circle[radius=4pt]; 
-        
+        \onslide<4->\fill[blue] (-.15, -.15) circle[radius=4pt]; 
         
         
-        \onslide<5->\draw (center) circle[radius=\radius];
-        \onslide<6-> \fill[black] (center) ++(135:\radius) circle[radius=2pt]  node[above left] {e-};
-        \onslide<7-> \fill[black] (center) ++(-45:\radius) circle[radius=2pt] node[below right] {e-};
-        \onslide<8->\draw (center) circle[radius=\radius*1.5];
-        \onslide<9->\fill[black] (center) ++(0:\radius*1.5) circle[radius=2pt] node[below right] {e-};
+        
+        \onslide<6->\draw (center) circle[radius=\radius];
+        \onslide<7-> \fill[black] (center) ++(135:\radius) circle[radius=2pt]  node[above left] {e-};
+        \onslide<8-> \fill[black] (center) ++(-45:\radius) circle[radius=2pt] node[below right] {e-};
+        \onslide<9->\draw (center) circle[radius=\radius*1.5];
+        \onslide<10->\fill[black] (center) ++(0:\radius*1.5) circle[radius=2pt] node[below right] {e-};
         
     \end{tikzpicture}
 
@@ -160,6 +160,8 @@
         \end{column}
     \end{columns}
 \end{frame}
+
+\subsection{Energy Levels}
 
 \begin{frame}
     \frametitle{Energy Levels}
@@ -228,8 +230,27 @@
         \end{column}
         \begin{column}{0.5\textwidth}
             \begin{tikzpicture}
-                \foreach \r/\c in {1/Li, 2/} { \pause \node[circle, draw, minimum size=2*\r cm,label=center:\c] {};}
-                \end{tikzpicture}
+                \coordinate (center) at (0,0);
+                \def\radius{1.5cm}
+           
+                
+                \onslide<4->\fill[blue] (-.15, .15) circle[radius=4pt]; 
+                \onslide<2->\fill[red] (-.1, .1) circle[radius=4pt]node[above left] {+};  
+                \onslide<4->\fill[blue] (.15, -.15) circle[radius=4pt]; 
+                \onslide<2->\fill[red] (.1, -.1) circle[radius=4pt]node[above right] {+}; 
+                \onslide<4->\fill[blue] (.18, .18) circle[radius=4pt]; 
+                \onslide<2->\fill[red] (.15, .15) circle[radius=4pt]node[below right] {+}; 
+                \onslide<4->\fill[blue] (-.15, -.15) circle[radius=4pt]; 
+                
+                
+                
+                \onslide<6->\draw (center) circle[radius=\radius];
+                \onslide<7-> \fill[black] (center) ++(135:\radius) circle[radius=2pt]  node[above left] {e-};
+                \onslide<8-> \fill[black] (center) ++(-45:\radius) circle[radius=2pt] node[below right] {e-};
+                \onslide<9->\draw (center) circle[radius=\radius*1.5];
+                \onslide<10->\fill[black] (center) ++(0:\radius*1.5) circle[radius=2pt] node[below right] {e-};
+                
+            \end{tikzpicture}
             
         \end{column}
     \end{columns}
@@ -253,6 +274,8 @@
     \end{columns}
 
 \end{frame}
+
+\subsection{Valence Electrons}
 
 
 

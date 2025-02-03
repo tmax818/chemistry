@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1738542184.95881 "/home/tyler/chemistry/resources/content/unit03/beamer/main.tex" "main.pdf" "main" 1738542187.22816 0
+["pdflatex"] 1738543038.46929 "/home/tyler/chemistry/resources/content/unit03/beamer/main.tex" "main.pdf" "main" 1738543041.35018 0
   "../../../../public/images/chemists/Bohr.jpg" 1738507642.53344 38725 08adc2524b235bb2d7577f53cba48721 ""
   "../../../../public/images/pTable.png" 1737948555.62942 221784 ee2feebf352e47e7bc69980161fd902f ""
-  "/home/tyler/chemistry/resources/content/unit03/beamer/main.tex" 1738542184.78711 6981 f98bcdb12aa2b9fa2ce0a5e134af936f ""
+  "/home/tyler/chemistry/resources/content/unit03/beamer/main.tex" 1738543035.61882 8143 cf2791bbea4a3b48c4ac2756ceaa64ca ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -216,10 +216,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727998225 5474867 7194e02fe3e8648570d423be8d224101 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727998323 3325967 01f7940432650d0bc6f72b6076700d88 ""
   "/usr/local/texlive/2024/texmf.cnf" 1727998218.91798 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "main.aux" 1738542187.16808 2705 e10da78a1ec8321eb0bf6a4a466d0624 "pdflatex"
-  "main.nav" 1738542187.16808 1753 09c335062cc2c7a0bd6a22ad948dd75a "pdflatex"
-  "main.out" 1738542187.16808 237 414a7335f6a5deefe2398c09de0a3ab4 "pdflatex"
-  "main.tex" 1738542184.78711 6981 f98bcdb12aa2b9fa2ce0a5e134af936f ""
+  "main.aux" 1738543041.28478 3778 3ebb9aa558fd1fb58493d6d68938e665 "pdflatex"
+  "main.nav" 1738543041.28478 2359 4e7359522c1ea9b4e4dccf23d700e42f "pdflatex"
+  "main.out" 1738543041.28478 701 44eaa1b71122027f5999c433e6894a60 "pdflatex"
+  "main.tex" 1738543035.61882 8143 cf2791bbea4a3b48c4ac2756ceaa64ca ""
+  "main.toc" 1738543041.28478 320 82c776ec28ec5ee597bdc47ec9daf486 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

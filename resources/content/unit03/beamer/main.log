@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  2 FEB 2025 16:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.3)  2 FEB 2025 16:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -779,7 +779,7 @@ Package chemgreek Info: Activating mapping `default' on line 16.
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc)
 
 [2
 
@@ -808,22 +808,22 @@ Package chemgreek Info: Activating mapping `default' on line 16.
 [8
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 67.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-)
 
 [9
 
 ]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 73.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
 
 [10
 
@@ -896,14 +896,22 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 [27
 
 ]
-<../../../../public/images/chemists/Bohr.jpg, id=762, 342.27875pt x 481.8pt>
+
+[28
+
+]
+
+[29
+
+]
+<../../../../public/images/chemists/Bohr.jpg, id=843, 342.27875pt x 481.8pt>
 File: ../../../../public/images/chemists/Bohr.jpg Graphic file (type jpg)
 <use ../../../../public/images/chemists/Bohr.jpg>
 Package pdftex.def Info: ../../../../public/images/chemists/Bohr.jpg  used on input line 162.
 (pdftex.def)             Requested size: 85.35826pt x 120.14827pt.
 
 
-[28
+[30
 
  <../../../../public/images/chemists/Bohr.jpg>]
 File: ../../../../public/images/chemists/Bohr.jpg Graphic file (type jpg)
@@ -911,14 +919,6 @@ File: ../../../../public/images/chemists/Bohr.jpg Graphic file (type jpg)
 Package pdftex.def Info: ../../../../public/images/chemists/Bohr.jpg  used on input line 162.
 (pdftex.def)             Requested size: 85.35826pt x 120.14827pt.
 
-
-[29
-
-]
-
-[30
-
-]
 
 [31
 
@@ -947,37 +947,27 @@ Package pdftex.def Info: ../../../../public/images/chemists/Bohr.jpg  used on in
 [37
 
 ]
-<../../../../public/images/pTable.png, id=1031, 481.8pt x 281.55188pt>
-File: ../../../../public/images/pTable.png Graphic file (type png)
-<use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 191.
-(pdftex.def)             Requested size: 284.52756pt x 166.27312pt.
-
 
 [38
 
- <../../../../public/images/pTable.png>]
-File: ../../../../public/images/pTable.png Graphic file (type png)
-<use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 219.
-(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
-
+]
 
 [39
 
 ]
+<../../../../public/images/pTable.png, id=1111, 481.8pt x 281.55188pt>
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 237.
-(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 193.
+(pdftex.def)             Requested size: 284.52756pt x 166.27312pt.
 
 
 [40
 
-]
+ <../../../../public/images/pTable.png>]
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 237.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 221.
 (pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
 
 
@@ -986,7 +976,7 @@ Package pdftex.def Info: ../../../../public/images/pTable.png  used on input lin
 ]
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 237.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
 (pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
 
 
@@ -995,7 +985,7 @@ Package pdftex.def Info: ../../../../public/images/pTable.png  used on input lin
 ]
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 255.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
 (pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
 
 
@@ -1004,7 +994,7 @@ Package pdftex.def Info: ../../../../public/images/pTable.png  used on input lin
 ]
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 255.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
 (pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
 
 
@@ -1013,7 +1003,7 @@ Package pdftex.def Info: ../../../../public/images/pTable.png  used on input lin
 ]
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 255.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
 (pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
 
 
@@ -1022,11 +1012,92 @@ Package pdftex.def Info: ../../../../public/images/pTable.png  used on input lin
 ]
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 255.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
 (pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
 
 
 [46
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[47
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[48
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[49
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[50
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 258.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[51
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 276.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[52
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 276.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[53
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 276.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[54
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 276.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+
+[55
 
 ]
 \tf@nav=\write6
@@ -1044,21 +1115,21 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 414A7335F6A5DEEFE2398C09DE0A3AB4;237.
+(rerunfilecheck)             Checksum: 44EAA1B71122027F5999C433E6894A60;701.
  ) 
 Here is how much of TeX's memory you used:
- 26177 strings out of 473579
- 525409 string characters out of 5728234
- 895463 words of memory out of 5000000
- 48465 multiletter control sequences out of 15000+600000
+ 26249 strings out of 473579
+ 527043 string characters out of 5728234
+ 897886 words of memory out of 5000000
+ 48513 multiletter control sequences out of 15000+600000
  565419 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,463b,978s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,463b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (46 pages, 380545 bytes).
+Output written on main.pdf (55 pages, 408982 bytes).
 PDF statistics:
- 1324 PDF objects out of 1440 (max. 8388607)
- 1222 compressed objects within 13 object streams
- 95 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1594 PDF objects out of 1728 (max. 8388607)
+ 1478 compressed objects within 15 object streams
+ 117 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
 
