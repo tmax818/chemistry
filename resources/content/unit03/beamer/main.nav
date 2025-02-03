@@ -36,6 +36,7 @@
 \headcommand {\beamer@framepages {52}{55}}
 \headcommand {\beamer@subsectionpages {30}{55}}
 \headcommand {\beamer@subsectionentry {0}{1}{2}{56}{The Periodic Table}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{1}{56}{groups and periods}}
 \headcommand {\slideentry {1}{2}{1}{56/58}{The Periodic Table}{0}}
 \headcommand {\beamer@framepages {56}{58}}
 \headcommand {\slideentry {1}{2}{2}{59/61}{The Periodic Table}{0}}
@@ -50,8 +51,10 @@
 \headcommand {\beamer@framepages {68}{69}}
 \headcommand {\slideentry {1}{3}{2}{70/76}{Valence Electrons}{0}}
 \headcommand {\beamer@framepages {70}{76}}
-\headcommand {\beamer@partpages {1}{76}}
-\headcommand {\beamer@subsectionpages {68}{76}}
-\headcommand {\beamer@sectionpages {3}{76}}
-\headcommand {\beamer@documentpages {76}}
-\headcommand {\gdef \inserttotalframenumber {20}}
+\headcommand {\slideentry {1}{3}{3}{77/78}{Valence Electrons}{0}}
+\headcommand {\beamer@framepages {77}{78}}
+\headcommand {\beamer@partpages {1}{78}}
+\headcommand {\beamer@subsectionpages {68}{78}}
+\headcommand {\beamer@sectionpages {3}{78}}
+\headcommand {\beamer@documentpages {78}}
+\headcommand {\gdef \inserttotalframenumber {21}}
