@@ -5,3 +5,4 @@
 \beamer@subsectionintoc {1}{4}{Bohr Model}{30}{0}{1}
 \beamer@subsectionintoc {1}{5}{Energy Levels}{32}{0}{1}
 \beamer@subsectionintoc {1}{6}{The Periodic Table}{56}{0}{1}
+\beamer@subsectionintoc {1}{7}{Valence Electrons}{68}{0}{1}

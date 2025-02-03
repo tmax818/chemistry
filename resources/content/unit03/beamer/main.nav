@@ -47,8 +47,16 @@
 \headcommand {\beamer@framepages {59}{61}}
 \headcommand {\slideentry {1}{6}{3}{62/64}{The Periodic Table}{0}}
 \headcommand {\beamer@framepages {62}{64}}
-\headcommand {\beamer@partpages {1}{64}}
-\headcommand {\beamer@subsectionpages {65}{64}}
-\headcommand {\beamer@sectionpages {3}{64}}
-\headcommand {\beamer@documentpages {64}}
-\headcommand {\gdef \inserttotalframenumber {17}}
+\headcommand {\slideentry {1}{6}{4}{65/67}{The Periodic Table}{0}}
+\headcommand {\beamer@framepages {65}{67}}
+\headcommand {\beamer@subsectionpages {56}{67}}
+\headcommand {\beamer@subsectionentry {0}{1}{7}{68}{Valence Electrons}}
+\headcommand {\slideentry {1}{7}{1}{68/69}{Valence Electrons}{0}}
+\headcommand {\beamer@framepages {68}{69}}
+\headcommand {\slideentry {1}{7}{2}{70/74}{Valence Electrons}{0}}
+\headcommand {\beamer@framepages {70}{74}}
+\headcommand {\beamer@partpages {1}{74}}
+\headcommand {\beamer@subsectionpages {68}{74}}
+\headcommand {\beamer@sectionpages {3}{74}}
+\headcommand {\beamer@documentpages {74}}
+\headcommand {\gdef \inserttotalframenumber {20}}
