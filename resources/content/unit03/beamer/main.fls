@@ -1,8 +1,8 @@
-PWD /Users/teacher/chemistry/resources/content/unit03/beamer
+PWD /Users/tyler.maxwell/chemistry/resources/content/unit03/beamer
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/teacher/chemistry/resources/content/unit03/beamer/main.tex
+INPUT /Users/tyler.maxwell/chemistry/resources/content/unit03/beamer/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamer.cls
@@ -503,6 +503,14 @@ INPUT ../../../../public/images/hor_vert.jpg
 INPUT ../../../../public/images/hor_vert.jpg
 INPUT ../../../../public/images/hor_vert.jpg
 INPUT ../../../../public/images/hor_vert.jpg
+INPUT ../../../../public/images/pTable.png
+INPUT ../../../../public/images/pTable.png
+INPUT ../../../../public/images/pTable.png
+INPUT ../../../../public/images/pTable.png
+INPUT ../../../../public/images/pTable.png
+INPUT ../../../../public/images/pTable.png
+INPUT ../../../../public/images/pTable.png
+INPUT ../../../../public/images/pTable.png
 INPUT ../../../../public/images/pTable.png
 INPUT ../../../../public/images/pTable.png
 INPUT ../../../../public/images/pTable.png
