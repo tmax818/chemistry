@@ -44,9 +44,26 @@
     \frametitle{Hydrogen}
     $$\ce{^{\alert{1}}_{}H}$$
 
-    \pause What does the \alert{1} mean?
+    \pause What does the \alert{1} mean?\\
 
     \pause 1 is the total number of neutrons and protons.
+
+    \vspace{1cm}
+
+    \begin{tikzpicture}
+        \coordinate (center) at (0,0);
+        \def\radius{1.5cm}
+        % a circle
+        \draw (center) circle[radius=\radius];
+        \fill (center) circle[radius=2pt] node[below right] {proton};
+      
+        % a random point of the circle
+ 
+        \fill[blue] (center) circle[radius=4pt];
+        \fill[black] (center) ++(90:\radius) circle[radius=2pt]  node[above right] {e};
+    \end{tikzpicture}
+
+
 \end{frame}
 
 
@@ -54,20 +71,75 @@
     \frametitle{Helium}
  $$\ce{^{4}_{2}He}$$
 
-    \pause What does the \alert{4} mean?
-    \pause \alert{4} is the total number of neutrons and protons.
-    \pause What does the \alert{2} mean?
+    \pause What does the \alert{4} mean?\\
+    \pause \alert{4} is the total number of neutrons and protons.\\
+    \pause What does the \alert{2} mean?\\
     \pause \alert{2} is the number of protons.
+
+    \begin{tikzpicture}
+
+        \coordinate (center) at (0,0);
+        \def\radius{1.5cm}
+        % a circle
+        \draw (center) circle[radius=\radius];
+
+      
+        % a random point of the circle
+        \fill[red] (-.1, .1) circle[radius=4pt]node[above left] {+};
+        \fill[blue] (.1, .1) circle[radius=4pt];
+        \fill[red] (.1, -.1) circle[radius=4pt]node[below right] {+};
+        \fill[blue] (-.1, -.1) circle[radius=4pt];
+        \pause \fill[black] (center) ++(135:\radius) circle[radius=2pt]  node[above left] {e-};
+        \pause \fill[black] (center) ++(-45:\radius) circle[radius=2pt] node[below right] {e-};
+
+    \end{tikzpicture}
+
+
+
+
+
 \end{frame}
 
 \begin{frame}
     \frametitle{Lithium}
  $$\ce{^{7}_{3}Li}$$
 
-    \pause How many protons does Lithium have?
-    \pause 3
-    \pause How many neutrons?
-    \pause $7 - 3 = \pause 4 $
+    \onslide<1->How many protons does Lithium have? 
+    \onslide<2->3 
+
+    \onslide<3-> How many neutrons?\\
+    \onslide<4-> $7 - 3 = \onslide<5-> 4 $
+
+
+    \begin{tikzpicture}
+
+        \coordinate (center) at (0,0);
+        \def\radius{1.5cm}
+        % a circle
+        
+        
+        % a random point of the circle
+        
+        \onslide<3->\fill[blue] (-.15, .15) circle[radius=4pt]; 
+        \onslide<2->\fill[red] (-.1, .1) circle[radius=4pt]node[above left] {+}; 
+        
+        \onslide<3->\fill[blue] (.15, -.15) circle[radius=4pt]; 
+        \onslide<2->\fill[red] (.1, -.1) circle[radius=4pt]node[above right] {+}; 
+        
+        \onslide<3->\fill[blue] (.18, .18) circle[radius=4pt]; 
+        \onslide<2->\fill[red] (.15, .15) circle[radius=4pt]node[below right] {+}; 
+        
+        \onslide<3->\fill[blue] (-.15, -.15) circle[radius=4pt]; 
+        
+        
+        
+        \onslide<5->\draw (center) circle[radius=\radius];
+        \onslide<6-> \fill[black] (center) ++(135:\radius) circle[radius=2pt]  node[above left] {e-};
+        \onslide<7-> \fill[black] (center) ++(-45:\radius) circle[radius=2pt] node[below right] {e-};
+        \onslide<8->\draw (center) circle[radius=\radius*1.5];
+        \onslide<9->\fill[black] (center) ++(0:\radius*1.5) circle[radius=2pt] node[below right] {e-};
+        
+    \end{tikzpicture}
 
 \end{frame}
 
@@ -75,9 +147,9 @@
 
 \begin{frame}
     \begin{columns}
-        \frametitle{The Great Dane}
+        \frametitle{Niels Bohr}
         \begin{column}{0.5\textwidth}
-            \includegraphics[width=3cm]{../../../../public/images/Bohr.jpg}
+            \includegraphics[width=3cm]{../../../../public/images/chemists/Bohr.jpg}
         \end{column}
         \begin{column}{0.5\textwidth}
             The Bohr Model - Bohr proposed that an atom was a nucleus with electrons "orbiting" in different 
@@ -127,9 +199,19 @@
             
         \end{column}
         \begin{column}{0.5\textwidth}
+
             \begin{tikzpicture}
-                \foreach \r/\c in {1/H} { \pause \node[circle, draw, minimum size=2*\r cm,label=center:\c] {};}
-                \end{tikzpicture}
+                \coordinate (center) at (0,0);
+                \def\radius{1.5cm}
+                % a circle
+                \draw (center) circle[radius=\radius];
+                \fill (center) circle[radius=2pt] node[below right] {proton};
+              
+                % a random point of the circle
+         
+                \fill[blue] (center) circle[radius=4pt];
+                \fill[black] (center) ++(90:\radius) circle[radius=2pt]  node[above right] {e};
+            \end{tikzpicture}
             
         \end{column}
     \end{columns}
