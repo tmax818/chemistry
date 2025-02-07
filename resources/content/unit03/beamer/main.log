@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  7 FEB 2025 08:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  7 FEB 2025 08:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1141,9 +1141,9 @@ Package pdftex.def Info: ../../../../public/images/pTable.png  used on input lin
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
 Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 517.
-(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+(pdftex.def)             Requested size: 227.62204pt x 133.01677pt.
 
-Overfull \hbox (31.49533pt too wide) in paragraph at lines 517--517
+Overfull \hbox (27.2716pt too wide) in paragraph at lines 517--517
 [][]  
  []
 
@@ -1153,9 +1153,9 @@ Overfull \hbox (31.49533pt too wide) in paragraph at lines 517--517
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
 Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 517.
-(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+(pdftex.def)             Requested size: 227.62204pt x 133.01677pt.
 
-Overfull \hbox (31.49533pt too wide) in paragraph at lines 517--517
+Overfull \hbox (27.2716pt too wide) in paragraph at lines 517--517
 [][]  
  []
 
@@ -1164,10 +1164,10 @@ Overfull \hbox (31.49533pt too wide) in paragraph at lines 517--517
 ]
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 538.
-(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 540.
+(pdftex.def)             Requested size: 227.62204pt x 133.01677pt.
 
-Overfull \hbox (31.49533pt too wide) in paragraph at lines 538--538
+Overfull \hbox (27.2716pt too wide) in paragraph at lines 540--540
 [][]  
  []
 
@@ -1176,14 +1176,38 @@ Overfull \hbox (31.49533pt too wide) in paragraph at lines 538--538
 ]
 File: ../../../../public/images/pTable.png Graphic file (type png)
 <use ../../../../public/images/pTable.png>
-Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 538.
-(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 540.
+(pdftex.def)             Requested size: 227.62204pt x 133.01677pt.
 
-Overfull \hbox (31.49533pt too wide) in paragraph at lines 538--538
+Overfull \hbox (27.2716pt too wide) in paragraph at lines 540--540
 [][]  
  []
 
 [80
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 561.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+Overfull \hbox (31.49533pt too wide) in paragraph at lines 561--561
+[][]  
+ []
+
+[81
+
+]
+File: ../../../../public/images/pTable.png Graphic file (type png)
+<use ../../../../public/images/pTable.png>
+Package pdftex.def Info: ../../../../public/images/pTable.png  used on input line 561.
+(pdftex.def)             Requested size: 170.71652pt x 99.76042pt.
+
+Overfull \hbox (31.49533pt too wide) in paragraph at lines 561--561
+[][]  
+ []
+
+[82
 
 ]
 \tf@nav=\write6
@@ -1204,18 +1228,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C7D10C7DF2D2A7A82E380A095E9DB666;537.
  ) 
 Here is how much of TeX's memory you used:
- 26255 strings out of 474116
- 527255 string characters out of 5743681
+ 26263 strings out of 474116
+ 527343 string characters out of 5743681
  1941187 words of memory out of 5000000
- 47926 multiletter control sequences out of 15000+600000
+ 47930 multiletter control sequences out of 15000+600000
  570127 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,24n,123p,466b,1239s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (80 pages, 739453 bytes).
+Output written on main.pdf (82 pages, 742943 bytes).
 PDF statistics:
- 2278 PDF objects out of 2487 (max. 8388607)
- 2119 compressed objects within 22 object streams
- 169 named destinations out of 1000 (max. 500000)
+ 2331 PDF objects out of 2487 (max. 8388607)
+ 2169 compressed objects within 22 object streams
+ 173 named destinations out of 1000 (max. 500000)
  138 words of extra memory for PDF output out of 10000 (max. 10000000)
 
