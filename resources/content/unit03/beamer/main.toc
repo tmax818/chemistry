@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Atomic Structure}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{0}{1}{Atomic Number}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{0}{2}{Mass Number}{6}{0}{1}
+\beamer@subsectionintoc {1}{1}{Bohr Model}{30}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{1}{Energy Levels}{32}{0}{1}
+\beamer@subsectionintoc {1}{2}{The Periodic Table}{56}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{groups and periods}{56}{0}{1}
+\beamer@subsectionintoc {1}{3}{Valence Electrons}{68}{0}{1}
