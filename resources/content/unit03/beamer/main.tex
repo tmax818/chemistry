@@ -560,7 +560,51 @@
     \end{columns}
 \end{frame}
 
+\begin{frame}
+    \frametitle{Valence Electrons of \ce{Be}}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            \includegraphics[width=6cm]{../../../../public/images/pTable.png}          
+        \end{column}
+        \begin{column}{0.25\textwidth}
+            \begin{tikzpicture}
+                \coordinate (center) at (0,0);
+                \def\radius{.75cm}
+                \fill[blue] (center) node {$$\ce{^{}_{}Be}$$}; 
+                \draw (center) circle[radius=\radius];
+                 \fill[black] (center) ++(135:\radius) circle[radius=2pt];
+                 \fill[black] (center) ++(-45:\radius) circle[radius=2pt];
+                \draw (center) circle[radius=\radius*1.5];
+                \onslide<2->\fill[red] (center) ++(0:\radius*1.5) circle[radius=2pt] node[below right] {valence e-};
+                \onslide<3->\fill[red] (center) ++(40:\radius*1.5) circle[radius=2pt] node[below right] {valence e-};
+            \end{tikzpicture}
+        \end{column}
+    \end{columns}
+\end{frame}
 
+
+\begin{frame}
+    \frametitle{Valence Electrons of \ce{B}}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            \includegraphics[width=6cm]{../../../../public/images/pTable.png}          
+        \end{column}
+        \begin{column}{0.25\textwidth}
+            \begin{tikzpicture}
+                \coordinate (center) at (0,0);
+                \def\radius{.75cm}
+                \fill[blue] (center) node {$$\ce{^{}_{}B}$$}; 
+                \draw (center) circle[radius=\radius];
+                 \fill[black] (center) ++(135:\radius) circle[radius=2pt];
+                 \fill[black] (center) ++(-45:\radius) circle[radius=2pt];
+                \draw (center) circle[radius=\radius*1.5];
+                \onslide<2->\fill[red] (center) ++(0:\radius*1.5) circle[radius=2pt] node[below right] {e-};
+                \onslide<3->\fill[red] (center) ++(40:\radius*1.5) circle[radius=2pt] node[below right] {e-};
+                \onslide<4->\fill[red] (center) ++(90:\radius*1.5) circle[radius=2pt] node[below right] {e-};
+            \end{tikzpicture}
+        \end{column}
+    \end{columns}
+\end{frame}
 
 
 \end{document}
