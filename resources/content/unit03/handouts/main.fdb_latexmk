@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1741963987.88817 "/Users/teacher/chemistry/resources/content/unit03/handouts/main.tex" "main.pdf" "main" 1741963989.28392 0
-  "/Users/teacher/chemistry/resources/content/unit03/handouts/main.tex" 1741963987.63607 785 e5f91fab3d67425483f2b903d0fe0eae ""
+["pdflatex"] 1743084422.82782 "/Users/teacher/chemistry/resources/content/unit03/handouts/main.tex" "main.pdf" "main" 1743084424.90602 0
+  "/Users/teacher/chemistry/resources/content/unit03/handouts/main.tex" 1743084421.89369 2057 badb15a15d9d3cb8397ed13fb330b994 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm" 1136768653 3584 291a5713401683441e0a8c8f4417b17b ""
@@ -110,6 +110,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1708376303 4674 4240ebde863d19dc4d13bb280b78abb2 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1708376303 9327 11bedad2ac38f92e405a38ed18489a03 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/lewis/lewis.sty" 1148923867 1417 aa202a3378281264024abcdee7ed5e17 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty" 1706648908 133877 abeecc93dabd0b08364240f40830f21b ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty" 1667072951 6572 ea530fbbe537629fd97736d33babc07d ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty" 1667072951 2224 1230ab76aa62221ccbd90bca8c8c015e ""
@@ -134,8 +135,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734113132.60937 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734113125 8221431 f0757a3495fe1938f77fd7984efc5419 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1741963989.15894 881 85957f521a5a299f6bebe581d7aa4327 "pdflatex"
-  "main.tex" 1741963987.63607 785 e5f91fab3d67425483f2b903d0fe0eae ""
+  "main.aux" 1743084424.74514 1157 7de999316229a2a60d07b8c28730ba62 "pdflatex"
+  "main.tex" 1743084421.89369 2057 badb15a15d9d3cb8397ed13fb330b994 ""
   (generated)
   "main.aux"
   "main.log"
