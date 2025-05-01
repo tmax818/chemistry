@@ -62,7 +62,7 @@ This course explores the principles of chemistry through hands-on activities, la
 * Materials Needed  
 
 - Textbook: Chemistry in the Universe  
-- Lab notebook.  
+- Lab notebook (TODO provided).  
 - Scientific calculator.  
 - Safety goggles (provided in class).  
 
