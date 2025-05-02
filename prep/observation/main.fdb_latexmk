@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1746156375.49459 "/home/tyler/Documents/chemistry/prep/observation/main.tex" "main.pdf" "main" 1746156375.96891 0
+["pdflatex"] 1746157098.27819 "/home/tyler/Documents/chemistry/prep/observation/main.tex" "main.pdf" "main" 1746157098.74407 0
   "/etc/texmf/web2c/texmf.cnf" 1740336956.80076 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/tyler/Documents/chemistry/prep/observation/main.tex" 1746156374.87572 796 1c944df63305e5159f34df07f9903345 ""
+  "/home/tyler/Documents/chemistry/prep/observation/main.tex" 1746157098.1289 808 fede7744cf9e2e70657f47331b69998e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -120,9 +120,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1740336967.5997 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1740336991 8214257 ea85c65faedfe8f3a279b04e4a3ddf3d ""
-  "main.aux" 1746156375.92871 465 dead494792aa13e3cea1a36bc316d3ef "pdflatex"
-  "main.tex" 1746156374.87572 796 1c944df63305e5159f34df07f9903345 ""
-  "printable-periodic-table-empty-21.png" 1746155968.7642 18825 c2c60c9a67d9cc052e152cc34583501f ""
+  "happytable.png" 1746156668.46626 11426 3344a08428f3997c99bdc64f9790e42a ""
+  "main.aux" 1746157098.70393 465 dead494792aa13e3cea1a36bc316d3ef "pdflatex"
+  "main.tex" 1746157098.1289 808 fede7744cf9e2e70657f47331b69998e ""
   (generated)
   "main.aux"
   "main.log"
