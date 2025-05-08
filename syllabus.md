@@ -5,7 +5,7 @@ COURSE SYLLABUS
 
 ##  The periodic table displays the elements in increasing atomic number and shows how periodicity of the physical and chemical properties of the elements relates to atomic structure. As a basis for understanding this concept: 
 
-- relate the position of an element in the periodic table to its atomic number and atomic mass. 
+- relate the position of an element in the periodic table to its **atomic number** and **atomic mass**. 
 - use the periodic table to identify metals, semimetals, nonmetals, and halogens. 
 - use the periodic table to identify alkali metals, alkaline earth metals and transition metals, trends in ionization energy, electronegativity, and the relative sizes of ions and atoms. 
 - use the periodic table to determine the number of electrons available for bonding. 
@@ -47,16 +47,16 @@ COURSE SYLLABUS
 4.h.  solve problems by using the ideal gas law in the form PV = nRT.  
 4.i.  apply Dalton’s law of partial pressures to describe the composition of gases and Graham’s law to predict diffusion of gases. 
 
-5. Acids, bases, and salts are three classes of compounds that form ions in water solutions. As a basis for understanding this concept: 
-5. a.  Students know the observable properties of acids, bases, and salt solutions. 
-5.b.  Students know acids are hydrogen-ion-donating and bases are hydrogen-ion accepting substances. 
-5. c.  Students know strong acids and bases fully dissociate and weak acids and bases partially dissociate. 
-5.d. use the pH scale to characterize acid and base solutions. 
-5.e.  *Students know the Arrhenius, Brønsted-Lowry, and Lewis acid–base definitions. 
-5.f.  calculate pH from the hydrogen-ion concentration. 
-5.g.  *Students know buffers stabilize pH in acid–base reactions. 
+## Acids, bases, and salts are three classes of compounds that form ions in water solutions. As a basis for understanding this concept: 
+- the observable properties of acids, bases, and salt solutions.  
+- acids are hydrogen-ion-donating and bases are hydrogen-ion accepting substances. 
+- strong acids and bases fully dissociate and weak acids and bases partially dissociate. 
+- use the pH scale to characterize acid and base solutions. 
+- the Arrhenius, Brønsted-Lowry, and Lewis acid–base definitions. 
+- calculate pH from the hydrogen-ion concentration. 
+- buffers stabilize pH in acid–base reactions. 
 
-6. Solutions are homogenous mixtures of two or more substances. As a basis for understanding this concept: 
+## Solutions are homogenous mixtures of two or more substances. As a basis for understanding this concept: 
 6.a.  Students know the definitions of solute and solvent. 
 6.b. describe the dissolving process at the molecular level by using the concept of random molecular motion. 
 6.c.  Students know temperature, pressure, and surface area affect the dissolving process. 
@@ -93,7 +93,7 @@ COURSE SYLLABUS
 10.e.  identify the functional groups that form the basis of alcohols, ketones, ethers, amines, esters, aldehydes, and organic acids. 
 10.f.  *Students know the R-group structure of amino acids and know how they combine to form the polypeptide backbone structure of proteins. 
 
-11. Nuclear processes are those in which an atomic nucleus changes, including radioactive decay of naturally occurring and human-made isotopes, nuclear fission, and nuclear fusion. As a basis for understanding this concept: 
+## Nuclear processes are those in which an atomic nucleus changes, including radioactive decay of naturally occurring and human-made isotopes, nuclear fission, and nuclear fusion. As a basis for understanding this concept: 
 11.a.  Students know protons and neutrons in the nucleus are held together by nuclear forces that overcome the electromagnetic repulsion between the protons. 
 11.b.  Students know the energy release per gram of material is much larger in nuclear fusion or fission reactions than in chemical reactions. The change in mass (calculated by E = mc2 ) is small but significant in nuclear reactions. 
 11.c.  Students know some naturally occurring isotopes of elements are radioactive, as are isotopes formed in nuclear reactions. 
