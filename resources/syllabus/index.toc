@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Chemistry}{2}{section.1}%
+\contentsline {section}{\numberline {2}Course Content}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The periodic table displays the elements in increasing atomic number and shows how periodicity of the physical and chemical properties of the elements relates to atomic structure.}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Biological, chemical, and physical properties of matter result from the ability of atoms to form bonds from electrostatic forces between electrons and *proton*s and between atoms and *molecule*s.}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}The conservation of atoms in chemical reactions leads to the principle of conservation of matter and the ability to calculate the mass of *product*s and *reactant*s.}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}The \textbf {kinetic} molecular theory describes the motion of atoms and *molecule*s and explains the properties of gases.}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}*Acid*s, *base*s, and salts are three classes of compounds that form ions in water solutions.}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Solutions are homogenous mixtures of two or more substances.}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}\textbf {Energy} is exchanged or transformed in all chemical reactions and physical changes of matter.}{6}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Chemical reaction rates depend on factors that influence the frequency of collision of \textbf {reactant} *molecule*s.}{6}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Chemical \textbf {equilibrium} is a dynamic process at the molecular level.}{7}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}The bonding characteristics of carbon allow the formation of many different organic *molecule*s of varied sizes, shapes, and chemical properties and provide the biochemical basis of life.}{7}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Nuclear processes are those in which an atomic \textbf {nucleus} changes, including radioactive decay of naturally occurring and human-made \textbf {isotopes}, nuclear fission, and nuclear fusion.}{8}{subsection.2.11}%
+\contentsline {section}{\numberline {3}Assessments and Grading}{8}{section.3}%
+\contentsline {section}{\numberline {4}Important Dates}{8}{section.4}%
+\contentsline {section}{\numberline {5}Materials Needed}{9}{section.5}%
+\contentsline {section}{\numberline {6}Class Policies}{9}{section.6}%
