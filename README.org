@@ -29,3 +29,5 @@
 | [2025-05-26 Mon] |   22 |      | XXXXXXX |                         |               |               |
 | [2025-06-02 Mon] |   23 |      |         |                         |               |               |
 | [2025-06-09 Mon] |   24 |      |         | last day of instruction |               |               |
+
+update from web
