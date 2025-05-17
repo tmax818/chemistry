@@ -1,68 +1,56 @@
+
 #+title: text.org
+#+startup: indent
 
-* 1 Chemistry: An Introduction 2
-
-
-
-* 2 Matter 22
-
-** the nature of matter
-
-+ key terms:
-  + matter
-  + atoms
-  + compounds
-  + molecules
-  + elements
-  + solid
-  + liquid
-  + gas
-    
-+ Objectives
-  + To learn about the composition of matter
-  + To learn the difference between elements and compounds
-  + To define the three states of matter
+* The periodic table displays the elements in increasing atomic number and shows how periodicity of the physical and chemical properties of the elements relates to atomic structure. As a basis for understanding this concept:
 
 
-*** A. The Particulate Nature of Matter
+* Periodic Table
 
-*Matter*, the “stuff” of which the universe is composed, has two characteristics: it has mass and it occupies space. Matter comes in a great variety of forms: the stars, the air that you are breathing, the gasoline that you put in your car, the chair on which you are sitting, the turkey in the sandwich you may have eaten for lunch, the tissues in your brain that allow you to read and understand this sentence, and so on.
+** Periodic Trends
+*** atomic number
+*** atomic mass
+*** ionization energy
+*** electronegativity
+*** relative sizes of ions and atoms. 
+*** number of electrons available for bonding. 
 
-As we look around our world, we are impressed by the great diversity of matter. Given the many forms and types of matter, it seems difficult to believe that all matter is composed of a small number of fundamental particles. It is surprising that the fundamental building blocks in chocolate cake are very similar to the components of air.
+** Families of elements
+*** metals
+*** semimetals 
+*** nonmetals 
+*** halogens 
+*** alkali metals 
+*** alkaline earth metals
+*** transition metals
+*** lanthanide 
+*** actinide 
+*** transactinide elements  
 
-**** The Atomic Nature of Matter
-How do we know that matter is composed of the tiny particles we call atoms? After all, they are far too small to be seen with the naked eye. It turns out that after literally thousands of years of speculation, we can finally “see” the atoms that are present in matter. In recent years scientists have developed a device called a scanning tunneling microscope (STM) that, although it works
-quite differently from an optical microscope, can produce images of atoms.
+** Experimental basis
 
-All matter consists of tiny particles called atoms. But when you look at objects such as nails or pennies, you don’t see these particles. Why not? The atoms are very tiny and can be seen only with a powerful magnifying instrument. You may have encountered the same concept in your life when you looked at a beach from a distance. The sand looks uniform—you can’t see the separate particles. As you get close, however, the individual grains of sand become apparent.
+*** Thomson's discovery of the electron, 
+*** Rutherford's nuclear atom, 
+*** Millikan's oil drop experiment, and 
+*** Einstein's explanation of the photoelectric effect. 
+*** the historical importance of the Bohr model of the atom. 
 
-So, the conclusion is that although objects in the macroscopic world typically look quite continuous and uniform, they are really particulate in nature—they are made of atoms. We can “see” them with powerful electronic microscopes.
+** Nuclear Physics
 
-*** Elements and Compounds
+*** the nucleus of the atom is much smaller than the atom yet contains most of its mass. 
+*** quantum electron configuration
+*** quantum theory of atomic structure
+*** spectral lines are the result of transitions of electrons between energy levels and 
+*** that these lines correspond to photons with a frequency related to the energy spacing between levels by using Planck's relationship (E = hv). 
+*** the transuranium elements were synthesized and identified in laboratory experiments through the use of nuclear accelerators. 
 
-We have just considered the most important idea in chemistry: matter is composed of tiny particles we call *atoms*. If all matter is made up of tiny particles called atoms, are all atoms alike? That is, is copper metal made of the same kind of atoms as gold? The answer is no. Copper atoms and gold atoms are different. Scientists have learned that all matter is composed from about 100 different types of atoms. For example, air is mostly gaseous oxygen and nitrogen. The nitrogen atoms are different from the
-oxygen atoms, which in turn are different from copper atoms, which differ from gold atoms.
+* Biological, chemical, and physical properties of matter result from the ability of atoms to form bonds from electrostatic forces between electrons and protons and between atoms and molecules. As a basis for understanding this concept:
 
-You can think of the matter in the universe like the words in a book. If you break all the words in this book apart into their component letters, you will end up with “large piles” of only 26 letters. The English alphabet allows you to construct thousands of words from just 26 letters. Similarly, all the matter in the universe is constructed by putting approximately 100 types of atoms together in various ways. The different types of matter are like the different words in a book. When we separate all of the universe into its atoms, we find approximately 100 different atoms. We call these 100 types of atoms the elements of the universe.
-
-To illustrate this idea, consider the letters A, D, and M. Using these letters you can make many words, such as MAD, DAM, DAD, and MADAM (can you think of others?). Each word represents something very different. Thus, with only three letters, you can represent several unique things or ideas.
-
-* 3 Chemical Foundations: Elements, Atoms, and Ions 48
-* 4 Nomenclature 92
-* 5 Measurements and Calculations 124
-* 6 Chemical Composition 170
-7 Chemical Reactions: An Introduction 216
-8 Reactions in Aqueous Solutions 238
-9 Chemical Quantities 278
-10 Energy 318
-11 Modern Atomic Theory 358
-12 Chemical Bonding 398
-13 Gases 440
-14 Liquids and Solids 486
-15 Solutions 518
-16 Acids and Bases 560
-17 Equilibrium 594
-18 Oxidation–Reduction Reactions and Electrochemistry 634
-19 Radioactivity and Nuclear Energy 666
-20 Organic Chemistry 698
-21 Biochemistry 750
+** atoms combine to form molecules by sharing electrons to form covalent or metallic bonds or by exchanging electrons to form ionic bonds. 
+** chemical bonds between atoms in molecules such as H_2, CH_4, NH_3, H_{2}CCH_2, N_2, Cl_2, and many large biological molecules are covalent. 
+** salt crystals, such as NaCl, are repeating patterns of positive and negative ions held together by electrostatic attraction. 
+** the atoms and molecules in liquids move in a random pattern relative to one another because the intermolecular forces are too weak to hold the atoms or molecules in a solid form.
+** draw Lewis dot structures. 
+** predict the shape of simple molecules and their polarity from Lewis dot structures. 
+** electronegativity and ionization energy relate to bond formation. 
+** identify solids and liquids held together by van der Waals forces or hydrogen bonding and relate these forces to volatility and boiling/ melting point temperatures.
