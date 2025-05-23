@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  4 FEB 2025 08:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.13)  23 MAY 2025 07:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -593,7 +593,7 @@ File: ../../../../public/images/ptable_white.png Graphic file (type png)
 <use ../../../../public/images/ptable_white.png>
 Package pdftex.def Info: ../../../../public/images/ptable_white.png  used on input line 156.
 (pdftex.def)             Requested size: 369.88582pt x 179.18459pt.
- [4 <../../../../public/images/ptable_white.png>] [5] [6]
+ [4 <../../../../public/images/ptable_white.png>] [5] [6] [7]
 This exam contains 35 questions with 0 parts, 0 subparts, and 0 subsubparts.
 (./main.aux)
  ***********
@@ -602,18 +602,18 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18459 strings out of 474116
- 379522 string characters out of 5743681
+ 18463 strings out of 474116
+ 379587 string characters out of 5743681
  1936187 words of memory out of 5000000
- 40522 multiletter control sequences out of 15000+600000
- 567974 words of font info for 57 fonts, out of 8000000 for 9000
+ 40525 multiletter control sequences out of 15000+600000
+ 568967 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,14n,93p,469b,800s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (6 pages, 129832 bytes).
+ 87i,20n,93p,469b,800s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (7 pages, 157878 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
