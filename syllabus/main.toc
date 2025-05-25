@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Course Information}{1}{section.1}%
+\contentsline {section}{\numberline {2}Instructor Information}{2}{section.2}%
+\contentsline {section}{\numberline {3}Course Description}{2}{section.3}%
+\contentsline {section}{\numberline {4}Textbooks and Materials}{2}{section.4}%
+\contentsline {section}{\numberline {5}Classroom Expectations/Norms}{2}{section.5}%
+\contentsline {section}{\numberline {6}Classroom Proceedures}{2}{section.6}%
+\contentsline {section}{\numberline {7}Course Objectives}{2}{section.7}%
+\contentsline {subsection}{\numberline {7.1}The Periodic Table}{2}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Atomic Structure}{2}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Peroidicity and Electron Arrangement}{3}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Chemical Bonding}{3}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}The Mole Concept}{3}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Stoichiometry}{3}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Kinetic Motion of Gases}{4}{subsection.7.7}%
+\contentsline {subsection}{\numberline {7.8}The Gas Laws}{4}{subsection.7.8}%
+\contentsline {subsection}{\numberline {7.9}Solutions}{4}{subsection.7.9}%
+\contentsline {subsection}{\numberline {7.10}Chemical Equilibrium}{4}{subsection.7.10}%
+\contentsline {subsection}{\numberline {7.11}Acids and Bases}{5}{subsection.7.11}%
+\contentsline {subsection}{\numberline {7.12}Acid/Base equilibrium}{5}{subsection.7.12}%
+\contentsline {subsection}{\numberline {7.13}Chemical Thermodynamics}{5}{subsection.7.13}%
+\contentsline {subsection}{\numberline {7.14}Organic Chemistry}{6}{subsection.7.14}%
+\contentsline {subsection}{\numberline {7.15}Nuclear Chemistry}{6}{subsection.7.15}%
+\contentsline {subsection}{\numberline {7.16}Nuclear Energy}{6}{subsection.7.16}%
+\contentsline {subsection}{\numberline {7.17}Particle Physics}{6}{subsection.7.17}%
+\contentsline {section}{\numberline {8}Grading Policy}{6}{section.8}%
