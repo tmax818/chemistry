@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1748198485.78951 "/home/tyler/Dropbox/orgfiles/chemistry/syllabus/main.tex" "main.pdf" "main" 1748198488.57108 0
+["pdflatex"] 1748205245.89363 "/home/tyler/Dropbox/orgfiles/chemistry/syllabus/main.tex" "main.pdf" "main" 1748205250.94163 0
   "/etc/texmf/web2c/texmf.cnf" 1737086107.24069 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/tyler/Dropbox/orgfiles/chemistry/syllabus/main.tex" 1748198485.24471 14465 3bc301d270915ca2d5d159ccaa98359b ""
+  "/home/tyler/Dropbox/orgfiles/chemistry/syllabus/main.tex" 1748205243.7029 14451 a5e0039b08458d860e1e3b943bc09ca1 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -157,9 +157,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1737086166.78809 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1737086290 8213694 f127267281cb6630ad0fe719f8def0b3 ""
-  "main.aux" 1748198488.13874 2684 acffcc06657a0229144063c9c80d3148 "pdflatex"
-  "main.out" 1748198488.14074 2696 953c68adec5532e6f920864efc09e641 "pdflatex"
-  "main.tex" 1748198485.24471 14465 3bc301d270915ca2d5d159ccaa98359b ""
+  "main.aux" 1748205250.46997 2684 acffcc06657a0229144063c9c80d3148 "pdflatex"
+  "main.out" 1748205250.47197 2696 953c68adec5532e6f920864efc09e641 "pdflatex"
+  "main.tex" 1748205243.7029 14451 a5e0039b08458d860e1e3b943bc09ca1 ""
   (generated)
   "main.aux"
   "main.log"
