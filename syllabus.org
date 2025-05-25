@@ -92,7 +92,7 @@
 
 * Nuclear processes are those in which an atomic nucleus changes, including radioactive decay of naturally occurring and human-made isotopes, nuclear fission, and nuclear fusion. 
 ** protons and neutrons in the nucleus are held together by nuclear forces that overcome the electromagnetic repulsion between the protons. 
-** the energy release per gram of material is much larger in nuclear fusion or fission reactions than in chemical reactions. The change in mass (calculated by E = mc2 ) is small but significant in nuclear reactions. 
+** the energy release per gram of material is much larger in nuclear fusion or fission reactions than in chemical reactions. The change in mass (calculated by E = mc^2) is small but significant in nuclear reactions. 
 ** some naturally occurring isotopes of elements are radioactive, as are isotopes formed in nuclear reactions. 
 ** the three most common forms of radioactive decay (alpha, beta, and gamma) and know how the nucleus changes in each type of decay. 
 ** alpha, beta, and gamma radiation produce different amounts and kinds of damage in matter and have different penetrations. 
