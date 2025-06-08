@@ -31,100 +31,94 @@ Chemistry AB is a laboratory-based college-preparatory course. Laboratory experi
 * Course Objectives
 
 ** The Periodic Table
-- Students know how to use the periodic table to identify:
-  - metals, semimetals, nonmetals, halogens, alkali metals, alkaline earth metals, and transition metals, lanthanide, actinide, and transactinide elements[fn:transactinite:know that the transuranium elements were synthesized and identified in laboratory experiments through the use of nuclear accelerators.]
-  - trends in ionization energy, electronegativity, and the relative sizes of ions and atoms.
-** Atomic Structure
-- Students know the experimental basis for:
-  - Thomson's discovery of the electron
-  - Rutherford's nuclear atom,
-  - Millikan's oil drop experiment, and
-  - Einstein's explanation of the photoelectric effect.
-  - the development of the quantum theory of atomic structure
-  - the historical importance of the Bohr model of the atom.
-- Students know that spectral lines are the result of transitions of electrons between energy levels and that these lines correspond to photons with a frequency related to the energy spacing between levels by using Planck's relationship ($E = hv$).
-- Students know the nucleus of the atom is much smaller than the atom yet contains most of its mass
-** Peroidicity and Electron Arrangement
-- Students know how to relate the position of an element in the periodic table to its atomic number and atomic mass.
-- Students know how to relate the position of an element in the periodic table to its quantum electron configuration and to its reactivity with other elements in the table.
-- Students know how to use the periodic table to determine the number of electrons available for bonding.
-** Chemical Bonding
-- Students know how to draw Lewis dot structures.
-- Students know atoms combine to form molecules by sharing electrons to form covalent or metallic bonds or by exchanging electrons to form ionic bonds.
-- Students know how to use the periodic table to identify alkali metals, alkaline earth metals and transition metals, trends in ionization energy, electronegativity, and the relative sizes of ions and atoms.
-- Students know chemical bonds between atoms in molecules such as H_2, CH_4, NH_3, H_2, CCH_2, N_2, Cl_2, and many large biological molecules are covalent.
-** The Mole Concept
-- Students know the quantity one mole is set by defining one mole of carbon 12 atoms to have a mass of exactly 12 grams.
-- Students know one mole equals $6.02 \times 10^{23}$ particles (atoms or molecules).
-- Students know how to describe chemical reactions by writing balanced equations.
-** Stoichiometry
-- Students know how to determine the molar mass of a molecule from its chemical formula and a table of atomic masses and how to convert the mass of a molecular substance to moles, number of particles, or volume of gas at standard temperature and pressure.
-- Students know how to calculate the masses of reactants and products in a chemical reaction from the mass of one of the reactants or products and the relevant atomic masses.
-- Students know how to calculate percent yield in a chemical reaction.
-- Students know how to identify reactions that involve oxidation and reduction and how to balance oxidation-reduction reactions.
-** Kinetic Motion of Gases
-- Students know the random motion of molecules and their collisions with a surface create the observable pressure on that surface.
-- Students know the random motion of molecules explains the diffusion of gases.
-- Students know how to convert between the Celsius and Kelvin temperature scales.
-- Students know there is no temperature lower than 0 Kelvin.
-- Students know the kinetic theory of gases relates the absolute temperature of a gas to the average kinetic energy of its molecules or atoms.
-** The Gas Laws
-- Students know how to apply the gas laws to relations between the pressure, temperature, and volume of any amount of an ideal gas or any mixture of ideal gases.
-- Students know how to determine the molar mass of a molecule from its chemical formula and a table of atomic masses and how to convert the mass of a molecular substance to moles, number of particles, or volume of gas at standard temperature and pressure.
-- Students know the values and meanings of standard temperature and pressure (STP).
-- Students know how to solve problems by using the ideal gas law in the form $PV = nRT$.
-- Students know how to apply Dalton's law of partial pressures to describe the composition of gases and Graham's law to predict diffusion of gases.
-** Solutions
-- Students know the definitions of *solute* and *solvent*.
-- Students know how to describe the dissolving process at the molecular level by using the concept of random molecular motion.
-- Students know how to calculate the concentration of a solute in terms of grams per liter, molarity, parts per million, and percent composition.
-- Students know the relationship between the molality of a solute in a solution and the solution's depressed freezing point or elevated boiling point.
-- Students know how molecules in a solution are separated or purified by the methods of chromatography and distillation.
-** Chemical Equilibrium
-- Students know how to use Le Chatelier's principle to predict the effect of changes in concentration, temperature, and pressure.
-- Students know equilibrium is established when forward and reverse reaction rates are equal.
-- Students know temperature, pressure, and surface area affect the dissolving process.
-- Students know how to write and calculate an equilibrium constant expression for a reaction.
-** Acids and Bases
-- Students know the observable properties of acids, bases, and salt solutions.
-- Students know acids are hydrogen-ion-donating and bases are hydrogen-ion-accepting substances.
-- Students know the Arrhenius, Brønsted-Lowry, and Lewis acid-base definitions.
-** Acid/Base equilibrium
-- Students know acids are hydrogen-ion-donating and bases are hydrogen-ion-accepting substances.
-- Students know strong acids and bases fully dissociate and weak acids and bases partially dissociate.
-- Students know how to use Le Chatelier's principle to predict the effect of changes in concentration, temperature, and pressure.
-- Students know equilibrium is established when forward and reverse reaction rates are equal.
-- Students know how to write and calculate an equilibrium constant expression for a reaction.
-- Students know how to calculate pH from the hydrogen-ion concentration.
-- Students know buffers stabilize pH in acid-base reactions.
-** Chemical Thermodynamics
-- Students know how to describe temperature and heat flow in terms of the motion of molecules (or atoms).
-- Students know energy is released when a material condenses or freezes and is absorbed when a material evaporates or melts.
-- Students know how to solve problems involving heat flow and temperature changes, using known values of specific heat and latent heat of phase change.
-- Students know chemical processes can either release (exothermic) or absorb (endothermic) thermal energy.
-- Students know how to apply Hess's law to calculate enthalpy change in a reaction.
-- Students know how to use the Gibbs free energy equation to determine whether a reaction would be spontaneous.
-- Students know the rate of reaction is the decrease in concentration of reactants or the increase in concentration of products with time.
-- Students know how reaction rates depend on such factors as concentration, temperature, and pressure.
-- Students know the definition and role of activation energy in a chemical reaction.
-- Students know the role a catalyst plays in increasing the reaction rate.
-** Organic Chemistry
-- Students know the bonding characteristics of carbon that result in the formation of a large variety of structures ranging from simple hydrocarbons to complex polymers and biological molecules.
-- Students know the system for naming the ten simplest linear hydrocarbons and isomers that contain single bonds, simple hydrocarbons with double and triple bonds, and simple molecules that contain a benzene ring.
-- Students know how to identify the functional groups that form the basis of alcohols, ketones, ethers, amines, esters, aldehydes, and organic acids.
-- Students know large molecules (polymers), such as proteins, nucleic acids, and starch, are formed by repetitive combinations of simple subunits.
-- Students know amino acids are the building blocks of proteins.
-- Students know the R-group structure of amino acids and know how they combine to form the polypeptide backbone structure of proteins.
-** Nuclear Chemistry
-- Students know protons and neutrons in the nucleus are held together by nuclear forces that overcome the electromagnetic repulsion between the protons.
-- Students know some naturally occurring isotopes of elements are radioactive, as are isotopes formed in nuclear reactions.
-- Students know the three most common forms of radioactive decay (alpha, beta, and gamma) and know how the nucleus changes in each type of decay.
-- Students know alpha, beta, and gamma radiation produce different amounts and kinds of damage in matter and have different penetrations.
-- Students know how to calculate the amount of a radioactive substance remaining after an integral number of half-lives have passed.
-** Nuclear Energy
-- Students know the energy release per gram of material is much larger in nuclear fusion or fission reactions than in chemical reactions. The change in mass (calculated by $E = mc^2$ ) is small but significant in nuclear reactions.
-** Particle Physics
-- Students know protons and neutrons have substructures and consist of particles called quarks.
+Know how to use the periodic table to identify *metals*, *semimetals*, *nonmetals*, *halogens*, *alkali metals*, *alkaline earth metals*, *transition metals*, *lanthanide*, *actinide*, *transactinide* elements [fn:transactinite:know that the transuranium elements were synthesized and identified in laboratory experiments through the use of *nuclear accelerators*.] and trends in *ionization energy*, *electronegativity*, and the relative sizes of *ions* and *atoms*.
 
+** Atomic Structure
+Know the experimental basis for: *Thomson's discovery of the electron*, *Rutherford's nuclear atom*, *Millikan's oil drop experiment*, *Einstein and the photoelectric effect*, the development of *the quantum theory of atomic structure*, and the historical importance of the *Bohr model* of the atom
+
+Know that *spectral lines* are the result of transitions of *electrons* between *energy levels* and that these lines correspond to photons with a *frequency* related to the energy spacing between levels by using *Planck's relationship* ($E = hv$).[fn::Know the nucleus of the atom is much smaller than the atom yet contains most of its mass.]
+
+** Peroidicity and Electron Arrangement
+Know how to relate the position of an element in the periodic table to its atomic number and atomic mass, quantum electron configuration, its reactivity with other elements in the table, and how to use the periodic table to determine the number of electrons available for bonding.
+
+** Chemical Bonding
+Know how to draw Lewis dot structures. Atoms combine to form molecules by sharing electrons to form *covalent* or *metallic* bonds or by exchanging electrons to form *ionic* bonds.[fn::Know chemical bonds between atoms in molecules such as H_2, CH_4, NH_3, H_2, CCH_2, N_2, Cl_2, and many large biological molecules are covalent.]
+
+** The Mole Concept
+Know the quantity one mole is set by defining one mole of carbon 12 atoms to have a mass of exactly 12 grams.One mole equals $6.02 \times 10^{23}$ particles (atoms or molecules). Know how to describe chemical reactions by writing balanced equations.
+
+** Stoichiometry
+Know how to determine the *molar mass* of a molecule from its *chemical formula* and a table of atomic masses and how to convert the mass of a molecular substance to moles, number of particles, or volume of gas at standard temperature and pressure.
+Calculate the masses of reactants and products in a chemical reaction from the mass of one of the reactants or products and the relevant atomic masses. Calculate percent yield in a chemical reaction.Identify reactions that involve oxidation and reduction and how to balance oxidation-reduction reactions.
+
+** Kinetic Motion of Gases
+Know the random motion of molecules and their collisions with a surface create the observable pressure on that surface and explains the diffusion of gases.
+
+Know how to convert between the Celsius and Kelvin temperature scales, there is no temperature lower than 0 Kelvin and the kinetic theory of gases relates the absolute temperature of a gas to the average kinetic energy of its molecules or atoms.
+
+** The Gas Laws
+Know how to apply the gas laws to relations between the *pressure*, *temperature*, and *volume* of any amount of an ideal gas or any mixture of ideal gases.Determine the molar mass of a molecule from its chemical formula and a table of atomic masses and how to convert the mass of a molecular substance to moles, number of particles, or volume of gas at standard temperature and pressure.
+
+Know the values and meanings of standard temperature and pressure(STP). Solve problems by using the ideal gas law in the form $PV = nRT$.
+
+Know how to apply *Dalton's law of partial pressures* to describe the composition of gases and *Graham's law* to predict diffusion of gases.
+
+** Solutions
+Know the definitions of *solute* and *solvent*. Describe the dissolving process at the molecular level by using the concept of random molecular motion. Calculate the concentration of a solute in terms of *grams per liter*, *molarity*, *parts per million*, and *percent composition*.
+
+Know the relationship between the molality of a solute in a solution and the solution's depressed *freezing point* or elevated *boiling point*. Molecules in a solution are separated or purified by the methods of *chromatography* and *distillation*.
+
+** Chemical Equilibrium
+Know how to use *Le Chatelier's principle* to predict the effect of changes in concentration, temperature, and pressure. Equilibrium is established when forward and reverse reaction rates are equal.
+
+Know temperature, pressure, and surface area affect the dissolving process. Write and calculate an equilibrium constant expression for a reaction.
+
+** Acids and Bases
+Know the observable properties of acids, bases, and salt solutions. Acids are hydrogen-ion-donating and bases are hydrogen-ion-accepting substances and the *Arrhenius*, *Brønsted-Lowry*, and *Lewis* acid-base definitions.
+
+** Acid/Base equilibrium
+Know acids are hydrogen-ion-donating and bases are hydrogen-ion-accepting substances.Strong acids and bases fully dissociate and weak acids and bases partially dissociate. Use Le Chatelier's principle to predict the effect of changes in concentration, temperature, and pressure.
+- Know equilibrium is established when forward and reverse reaction rates are equal.
+- Know how to write and calculate an equilibrium constant expression for a reaction.
+- Know how to calculate pH from the hydrogen-ion concentration.
+- Know buffers stabilize pH in acid-base reactions.
+
+** Chemical Thermodynamics
+
+- Know how to describe temperature and heat flow in terms of the motion of molecules (or atoms).
+- Know energy is released when a material condenses or freezes and is absorbed when a material evaporates or melts.
+- Know how to solve problems involving heat flow and temperature changes, using known values of specific heat and latent heat of phase change.
+- Know chemical processes can either release (exothermic) or absorb (endothermic) thermal energy.
+- Know how to apply Hess's law to calculate enthalpy change in a reaction.
+- Know how to use the Gibbs free energy equation to determine whether a reaction would be spontaneous.
+- Know the rate of reaction is the decrease in concentration of reactants or the increase in concentration of products with time.
+- Know how reaction rates depend on such factors as concentration, temperature, and pressure.
+- Know the definition and role of activation energy in a chemical reaction.
+- Know the role a catalyst plays in increasing the reaction rate.
+
+** Organic Chemistry
+
+- Know the bonding characteristics of carbon that result in the formation of a large variety of structures ranging from simple hydrocarbons to complex polymers and biological molecules.
+- Know the system for naming the ten simplest linear hydrocarbons and isomers that contain single bonds, simple hydrocarbons with double and triple bonds, and simple molecules that contain a benzene ring.
+- Know how to identify the functional groups that form the basis of alcohols, ketones, ethers, amines, esters, aldehydes, and organic acids.
+- Know large molecules (polymers), such as proteins, nucleic acids, and starch, are formed by repetitive combinations of simple subunits.
+- Know amino acids are the building blocks of proteins.
+- Know the R-group structure of amino acids and know how they combine to form the polypeptide backbone structure of proteins.
+
+** Nuclear Chemistry
+
+- Know protons and neutrons in the nucleus are held together by nuclear forces that overcome the electromagnetic repulsion between the protons.
+- Know some naturally occurring isotopes of elements are radioactive, as are isotopes formed in nuclear reactions.
+- Know the three most common forms of radioactive decay (alpha, beta, and gamma) and know how the nucleus changes in each type of decay.
+- Know alpha, beta, and gamma radiation produce different amounts and kinds of damage in matter and have different penetrations.
+- Know how to calculate the amount of a radioactive substance remaining after an integral number of half-lives have passed.
+
+** Nuclear Energy
+
+- Know the energy release per gram of material is much larger in nuclear fusion or fission reactions than in chemical reactions. The change in mass (calculated by $E = mc^2$ ) is small but significant in nuclear reactions.
+
+** Particle Physics
+
+- Know protons and neutrons have substructures and consist of particles called quarks.
 
 * Grading Policy

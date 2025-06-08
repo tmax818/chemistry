@@ -1,8 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1748210849.38414 "/home/tyler/Dropbox/orgfiles/chemistry/syllabus/main.tex" "main.pdf" "main" 1748210859.35492 0
+["pdflatex"] 1748672538.42966 "/home/tyler/Dropbox/orgfiles/chemistry/syllabus/main.tex" "main.pdf" "main" 1748672540.61468 0
   "/etc/texmf/web2c/texmf.cnf" 1737086107.24069 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/tyler/Dropbox/orgfiles/chemistry/syllabus/main.tex" 1748210823.82221 13435 a3e2cc1cf1762b188ae32d318375e4cd ""
+  "/home/tyler/Dropbox/orgfiles/chemistry/syllabus/main.tex" 1748672535.82004 12934 715341ee8b85609a229ffe53c2ba7f9f ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm" 1136768653 3584 1a7de6c99457381c64abc1a7c545505f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1136768653 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1136768653 3584 13049b61b922a28b158a38aeff75ee9b ""
@@ -105,6 +106,7 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1636152094 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1636152094 2900 1537cc8184ad1792082cd229ecc269f4 ""
+  "/usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb" 1737086142.85953 143961 201304b65f97bc643fbd0bcf0685d1fe ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb" 1737086142.86153 154600 ea54091d31de803b613ba9e80ca51709 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb" 1737086142.86253 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb" 1737086142.86453 135942 859a90cad7494a1e79c94baf546d7de5 ""
@@ -117,10 +119,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1737086166.78809 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1737086290 8213694 f127267281cb6630ad0fe719f8def0b3 ""
-  "main.aux" 1748210857.89624 5059 4b3f21a6d0945b74a07eda9e3c0321e5 "pdflatex"
-  "main.out" 1748210857.90624 3748 85031a10a8697666814b576fe0f243c4 "pdflatex"
-  "main.tex" 1748210823.82221 13435 a3e2cc1cf1762b188ae32d318375e4cd ""
-  "main.toc" 1748210857.91224 2049 de218f36c1452feea2e4057be93e6326 "pdflatex"
+  "main.aux" 1748672540.3032 5059 d9228d92978baacdccfaadb09c66fe87 "pdflatex"
+  "main.out" 1748672540.3052 3748 85031a10a8697666814b576fe0f243c4 "pdflatex"
+  "main.tex" 1748672535.82004 12934 715341ee8b85609a229ffe53c2ba7f9f ""
+  "main.toc" 1748672540.3052 2049 a0da7c5b5840a1c294db143a6ea1d681 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
