@@ -31,33 +31,33 @@ Chemistry AB is a laboratory-based college-preparatory course. Laboratory experi
 * Course Objectives
 
 ** The Periodic Table
-Know how to use the periodic table to identify *metals*, *semimetals*, *nonmetals*, *halogens*, *alkali metals*, *alkaline earth metals*, *transition metals*, *lanthanide*, *actinide*, *transactinide* elements [fn:transactinite:know that the transuranium elements were synthesized and identified in laboratory experiments through the use of *nuclear accelerators*.] and trends in *ionization energy*, *electronegativity*, and the relative sizes of *ions* and *atoms*.
+Know how to use the periodic table to identify *metals*, *semimetals*, *nonmetals*, *halogens*, *alkali metals*, *alkaline earth metals*, *transition metals*, *lanthanide*, *actinide*, *transactinide elements* [fn:transactinide:know that the transuranium elements were synthesized and identified in laboratory experiments through the use of *nuclear accelerators*.] and trends in *ionization energy*, *electronegativity*, and the relative sizes of *ions* and **atoms**.
 
 ** Atomic Structure
-Know the experimental basis for: *Thomson's discovery of the electron*, *Rutherford's nuclear atom*, *Millikan's oil drop experiment*, *Einstein and the photoelectric effect*, the development of *the quantum theory of atomic structure*, and the historical importance of the *Bohr model* of the atom
+Know the experimental basis for: *Thomson's discovery of the electron*, *Rutherford's nuclear atom*, *Millikan's oil drop experiment*, *Einstein and the photoelectric effect*, the development of *the quantum theory of atomic structure*, and the historical importance of the *Bohr model* of the *atom*
 
-Know that *spectral lines* are the result of transitions of *electrons* between *energy levels* and that these lines correspond to photons with a *frequency* related to the energy spacing between levels by using *Planck's relationship* ($E = hv$).[fn::Know the nucleus of the atom is much smaller than the atom yet contains most of its mass.]
+Know that *spectral lines* are the result of transitions of *electrons* between *energy levels* and that these lines correspond to *photons* with a *frequency* related to the *energy* spacing between levels by using *Planck's relationship* ($E = hv$).[fn::Know the nucleus of the atom is much smaller than the atom yet contains most of its mass.]
 
 ** Peroidicity and Electron Arrangement
-Know how to relate the position of an element in the periodic table to its atomic number and atomic mass, quantum electron configuration, its reactivity with other elements in the table, and how to use the periodic table to determine the number of electrons available for bonding.
+Know how to relate the position of an element in the periodic table to its *atomic number* and *atomic mass*, *quantum electron configuration*, its *reactivity* with other elements in the table, and how to use the periodic table to determine the number of *electrons* available for *bonding*.
 
 ** Chemical Bonding
-Know how to draw Lewis dot structures. Atoms combine to form molecules by sharing electrons to form *covalent* or *metallic* bonds or by exchanging electrons to form *ionic* bonds.[fn::Know chemical bonds between atoms in molecules such as H_2, CH_4, NH_3, H_2, CCH_2, N_2, Cl_2, and many large biological molecules are covalent.]
+Know how to draw *Lewis dot structures*. *Atoms* combine to form *molecules* by sharing electrons to form *covalent* or *metallic bonds* or by exchanging electrons to form *ionic* bonds.[fn::Know chemical bonds between *atoms* in molecules such as H_2, CH_4, NH_3, H_2, CCH_2, N_2, Cl_2, and many large biological molecules are covalent.]
 
 ** The Mole Concept
-Know the quantity one mole is set by defining one mole of carbon 12 atoms to have a mass of exactly 12 grams.One mole equals $6.02 \times 10^{23}$ particles (atoms or molecules). Know how to describe chemical reactions by writing balanced equations.
+Know the quantity one *mole* is set by defining one mole of carbon 12 *atoms* to have a mass of exactly 12 grams.One mole equals $6.02 \times 10^{23}$ particles (*atoms* or molecules). Know how to describe chemical reactions by writing balanced equations.
 
 ** Stoichiometry
-Know how to determine the *molar mass* of a molecule from its *chemical formula* and a table of atomic masses and how to convert the mass of a molecular substance to moles, number of particles, or volume of gas at standard temperature and pressure.
-Calculate the masses of reactants and products in a chemical reaction from the mass of one of the reactants or products and the relevant atomic masses. Calculate percent yield in a chemical reaction.Identify reactions that involve oxidation and reduction and how to balance oxidation-reduction reactions.
+Know how to determine the *molar mass* of a molecule from its *chemical formula* and a table of *atomic masses* and how to convert the mass of a molecular substance to moles, number of particles, or *volume* of gas at *standard temperature and pressure*.
+Calculate the masses of *reactants* and *products* in a *chemical reaction* from the mass of one of the reactants or products and the relevant atomic masses. Calculate *percent yield* in a chemical reaction. Identify reactions that involve *oxidation* and *reduction* and how to balance *oxidation-reduction* reactions.
 
 ** Kinetic Motion of Gases
-Know the random motion of molecules and their collisions with a surface create the observable pressure on that surface and explains the diffusion of gases.
+Know the *random motion* of molecules and their *collisions* with a surface create the observable *pressure* on that surface and explains the *diffusion* of gases.
 
-Know how to convert between the Celsius and Kelvin temperature scales, there is no temperature lower than 0 Kelvin and the kinetic theory of gases relates the absolute temperature of a gas to the average kinetic energy of its molecules or atoms.
+Know how to convert between the *Celsius* and *Kelvin* temperature scales, there is no temperature lower than 0 Kelvin and the kinetic theory of gases relates the absolute temperature of a gas to the *average kinetic energy* of its molecules or *atoms*.
 
 ** The Gas Laws
-Know how to apply the gas laws to relations between the *pressure*, *temperature*, and *volume* of any amount of an ideal gas or any mixture of ideal gases.Determine the molar mass of a molecule from its chemical formula and a table of atomic masses and how to convert the mass of a molecular substance to moles, number of particles, or volume of gas at standard temperature and pressure.
+Know how to apply the *gas laws* to relations between the *pressure*, *temperature*, and *volume* of any amount of an *ideal gas* or any mixture of ideal gases. Determine the *molar mass* of a molecule from its *chemical formula* and a table of atomic masses and how to convert the mass of a molecular substance to moles, number of particles, or volume of gas at standard temperature and pressure.
 
 Know the values and meanings of standard temperature and pressure(STP). Solve problems by using the ideal gas law in the form $PV = nRT$.
 
@@ -85,7 +85,7 @@ Know acids are hydrogen-ion-donating and bases are hydrogen-ion-accepting substa
 
 ** Chemical Thermodynamics
 
-- Know how to describe temperature and heat flow in terms of the motion of molecules (or atoms).
+- Know how to describe temperature and heat flow in terms of the motion of molecules (or *atoms*).
 - Know energy is released when a material condenses or freezes and is absorbed when a material evaporates or melts.
 - Know how to solve problems involving heat flow and temperature changes, using known values of specific heat and latent heat of phase change.
 - Know chemical processes can either release (exothermic) or absorb (endothermic) thermal energy.
