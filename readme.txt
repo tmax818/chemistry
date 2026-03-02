@@ -1,0 +1,8 @@
+---
+title: My Document Title
+author: Author Name
+date: 2026-03-01
+---
+
+This is the body of my text file.
+It can contain plain text or simple markdown.
