@@ -5,6 +5,7 @@ title: plan
 # Chemistry Basics
 
 - [Unit Plan](https://teachchemistry.org/classroom-resources/chemistry-basics-unit-plan)
+- [lab report article](https://teachchemistry.org/periodical/issues/september-2016/tools-and-strategies-for-teaching-lab-report-writing.html)
 
 # Quantitative Chemistry
 
