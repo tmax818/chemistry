@@ -1,0 +1,28 @@
+#+title: notes
+
+
+| AACT        | Kahn                           | Morgan                                | Zumdahl                            |
+|-------------+--------------------------------+---------------------------------------+------------------------------------|
+| Baisics     | Atoms isotopes, and ions       | Math and Background information       | Introduction                       |
+| Measurement | Atomic models and periodicity  | Matter and Nomenclature               | matter                             |
+|             | Chemical bonding               | reactions                             | foundations: elements, atoms, ions |
+|             | reactions                      | stoichiometry and the mole            | nomenclature                       |
+|             | stoichiometry and the mole     | history of atomic structure and light | measurement and calculations       |
+|             | states of matter               | periodic table                        | chemical composition               |
+|             | thermochemistry                | bonding and Lewis Structure           | reactions intro                    |
+|             | solutions, acids, and bases    | gases                                 | reactions aqueous solutions        |
+|             | reaction rates and equilibrium | kinetics                              | chemical quantities                |
+|             | nuclear chemistry              | equilibrium                           | energy                             |
+|             |                                | acids and bases                       | modern atomic theory               |
+|             |                                | thermodynamics                        | bonding                            |
+|             |                                | electrochemistry                      | gases                              |
+|             |                                | nuclear chemistry                     | liquids and solids                 |
+|             |                                |                                       | solutions                          |
+|             |                                |                                       | acid base                          |
+|             |                                |                                       | equilibrium                        |
+|             |                                |                                       | redox                              |
+|             |                                |                                       | nuclear chemistry                  |
+|             |                                |                                       | ochem                              |
+|             |                                |                                       | biochem                            |
+
+

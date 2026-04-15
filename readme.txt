@@ -1,8 +1,0 @@
----
-title: README
-date: today
-author: Tyler Maxwell
----
-
-
-This is Chemistry

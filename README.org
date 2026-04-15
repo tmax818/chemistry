@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 #+title: README
-
 #+author: Tyler Maxwell
 #+date: today
 
 This is Chemistry
-=======
 #+title: chemistry
 
 
@@ -136,4 +133,3 @@ This is Chemistry
 ** reactions and stoichiometry
 ** solutions 
 ** states of matter
->>>>>>> ec57800 (update)

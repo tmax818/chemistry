@@ -1,9 +1,0 @@
----
-title: Chemistry
-author: Tyler Maxwell
-notes: |
-    Welcome everyone to this presentation.
-    Remember to introduce yourself and mention the key topics.
----
-
-
