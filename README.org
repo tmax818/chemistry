@@ -1,8 +1,6 @@
 #+title: README
 #+author: Tyler Maxwell
 #+date: today
-
-This is Chemistry
 #+title: chemistry
 
 
@@ -116,7 +114,7 @@ This is Chemistry
 9.11 Electrolysis and Faraday's Law
 
 
-* high school topics
+* high school topics from AACT
 
 ** acids and bases
 ** atomic structure
