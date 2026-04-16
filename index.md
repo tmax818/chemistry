@@ -13,15 +13,22 @@ date: 2026-04-15
 
 ## Laboratory Safety and Equipment
 
+### Safety
+
 - Video 1: [Safety Mindset]
 - Video 2: [Safety Data Sheet](SDS)
+- Video 3:
+- Video 4:
+
+### Equipment
+
 
 ## Lab Reports
 
 ### template
 ### graphing
 
-[lesson plan]: ./public/unitplan-chemistrybasicsunitplan.pdf
+[lesson plan]: ./public/unitplan-chemistrybasicsandmeasurementsquickstart.pdf
 [NGSS]: https://www.nextgenscience.org/
 [Safety Mindset]: https://youtu.be/Rf-k4g0wuCs
 [Safety Data Sheet]: https://youtu.be/TWxvPhtAQ4Q
