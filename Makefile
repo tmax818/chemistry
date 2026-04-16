@@ -1,4 +1,3 @@
-NOW=$(date)
 
 
 all:
@@ -16,6 +15,10 @@ slides:
 	-V theme=sky \
 	-V transition=cube \
 	--slide-level 3
+
+site:
+	pandoc -s --toc -c ./assets/css/style.css \
+	-A ./assets/html/footer.html index.md -o index.html
 
 
 clean:
