@@ -7,4 +7,6 @@ date: 2026-04-15
 
 # Introduction 
 
-[lesson plan](.//public/unitplan-chemistrybasicsunitplan.pdf)
+- see [lesson plan]
+
+[lesson plan]: ./public/unitplan-chemistrybasicsunitplan.pdf
