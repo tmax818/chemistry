@@ -4,7 +4,42 @@
 :END:
 Atoms are made of [[https://en.wikipedia.org/wiki/proton][proton]] and
 [[https://en.wikipedia.org/wiki/neutron][neutron]] and
-[[https://en.wikipedia.org/wiki/electron][electron]] # Atomic models and
-periodicity # Chemical bonding # Chemical reactions # Stoichiometry and
-the mole # States of matter # Thermochemistry # Solutions, acids, and
-bases # Reaction rates and equilibrium # Nuclear chemistry
+[[https://en.wikipedia.org/wiki/electron][electron]]
+
+* Atomic models and periodicity
+:PROPERTIES:
+:CUSTOM_ID: atomic-models-and-periodicity
+:END:
+* Chemical bonding
+:PROPERTIES:
+:CUSTOM_ID: chemical-bonding
+:END:
+* Chemical reactions
+:PROPERTIES:
+:CUSTOM_ID: chemical-reactions
+:END:
+* Stoichiometry and the mole
+:PROPERTIES:
+:CUSTOM_ID: stoichiometry-and-the-mole
+:END:
+* States of matter
+:PROPERTIES:
+:CUSTOM_ID: states-of-matter
+:END:
+* Thermochemistry
+:PROPERTIES:
+:CUSTOM_ID: thermochemistry
+:END:
+* Solutions, acids, and bases
+:PROPERTIES:
+:CUSTOM_ID: solutions-acids-and-bases
+:END:
+* Reaction rates and equilibrium
+:PROPERTIES:
+:CUSTOM_ID: reaction-rates-and-equilibrium
+:END:
+* Nuclear chemistry
+:PROPERTIES:
+:CUSTOM_ID: nuclear-chemistry
+:END:
+

@@ -7,14 +7,23 @@ date: 2026-04-15
 # Atoms, isotopes, and ion
 
 Atoms are made of [proton] and [neutron] and [electron]
+
 # Atomic models and periodicity
+
 # Chemical bonding
+
 # Chemical reactions
+
 # Stoichiometry and the mole
+
 # States of matter
+
 # Thermochemistry
+
 # Solutions, acids, and bases
+
 # Reaction rates and equilibrium
+
 # Nuclear chemistry
 
 
