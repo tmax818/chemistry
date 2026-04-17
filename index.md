@@ -6,7 +6,7 @@ date: 2026-04-15
 
 # Atoms, isotopes, and ion
 
-Atoms are made of [proton] and [neutron] and [electron]
+Atoms are made of three [subatomic particle]s: [proton]s and [neutron]s in the [nucleus] and [electron] "orbiting" the nucleus.
 
 # Atomic models and periodicity
 
@@ -26,10 +26,11 @@ Atoms are made of [proton] and [neutron] and [electron]
 
 # Nuclear chemistry
 
-
+[subatomic particle]:https://en.wikipedia.org/wiki/subatomic_particle
 [electron]:https://en.wikipedia.org/wiki/electron
 [proton]:https://en.wikipedia.org/wiki/proton
 [neutron]:https://en.wikipedia.org/wiki/neutron
+[nucleus]:https://en.wikipedia.org/wiki/atomic_nucleus
 [Nuclear Fusion]: https://en.wikipedia.org/wiki/Nuclear_fusion
 [Nuclear Fission]:https://en.wikipedia.org/wiki/Nuclear_fission
 [Radioactive Decay]: https://en.wikipedia.org/wiki/Radioactive_decay
