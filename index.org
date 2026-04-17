@@ -1,0 +1,10 @@
+* Atoms, isotopes, and ion
+:PROPERTIES:
+:CUSTOM_ID: atoms-isotopes-and-ion
+:END:
+Atoms are made of [[https://en.wikipedia.org/wiki/proton][proton]] and
+[[https://en.wikipedia.org/wiki/neutron][neutron]] and
+[[https://en.wikipedia.org/wiki/electron][electron]] # Atomic models and
+periodicity # Chemical bonding # Chemical reactions # Stoichiometry and
+the mole # States of matter # Thermochemistry # Solutions, acids, and
+bases # Reaction rates and equilibrium # Nuclear chemistry

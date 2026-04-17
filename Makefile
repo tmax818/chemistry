@@ -20,6 +20,12 @@ site:
 	pandoc -s --toc -c ./assets/css/style.css \
 	-A ./assets/html/footer.html index.md -o index.html
 
+text:
+	pandoc index.md -f markdown -t plain -o index.txt
+
+org:
+	pandoc index.md -f markdown -t org -o index.org
+
 
 clean:
 	rm -rf README.md README.org
