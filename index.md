@@ -8,6 +8,8 @@ date: 2026-04-15
 
 Atoms are made of three [subatomic particle]s: [proton]s and [neutron]s in the [nucleus] and [electron] "orbiting" the nucleus.
 
+![](./assets/images/atom-structure.svg)
+
 # Atomic models and periodicity
 
 # Chemical bonding
