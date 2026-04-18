@@ -40,6 +40,10 @@ Atoms are made of three [subatomic particle]s: [proton]s and [neutron]s in the [
 
 ![](./assets/images/chemEqSym.svg)
 
+## What does it mean?
+
+![](./assets/images/reactionAnimation.gif)
+
 # Stoichiometry and the mole
 
 # States of matter
