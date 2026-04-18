@@ -4,6 +4,28 @@ author: Tyler Maxwell
 date: 2026-04-15
 ---
 
+# Introduction
+
+## Safety First
+
+### Safety Contract
+
+- [English](./public/StudentSafetyContract-En.pdf)
+- [Spanish](./public/StudentSafetyContract-Sp.pdf)
+
+
+## What is Chemistry?
+
+
+
+
+
+### the central science
+
+### What do chemists study?
+
+
+
 # Atoms, isotopes, and ion
 
 Atoms are made of three [subatomic particle]s: [proton]s and [neutron]s in the [nucleus] and [electron] "orbiting" the nucleus.
@@ -36,5 +58,5 @@ Atoms are made of three [subatomic particle]s: [proton]s and [neutron]s in the [
 [Nuclear Fusion]: https://en.wikipedia.org/wiki/Nuclear_fusion
 [Nuclear Fission]:https://en.wikipedia.org/wiki/Nuclear_fission
 [Radioactive Decay]: https://en.wikipedia.org/wiki/Radioactive_decay
-[Radioactive Isotopes]: https://en.wikipedia.org/wiki/Radionuclide
+[Radioactive Isotope]: https://en.wikipedia.org/wiki/Radionuclide
 [Radiation]: https://en.wikipedia.org/wiki/Radiation
