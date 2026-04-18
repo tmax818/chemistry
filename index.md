@@ -38,6 +38,8 @@ Atoms are made of three [subatomic particle]s: [proton]s and [neutron]s in the [
 
 # Chemical reactions
 
+![](./assets/images/chemEqSym.svg)
+
 # Stoichiometry and the mole
 
 # States of matter
